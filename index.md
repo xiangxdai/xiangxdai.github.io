@@ -13,7 +13,7 @@
 
 ## About me
 I am a new Ph.D. candidate in [Advanced Networking and System Research Laboratory (ANSRLab)](http://ansrlab.cse.cuhk.edu.hk/) supervised by [Prof.John C.S. Lui](https://www.cse.cuhk.edu.hk/~cslui/). \
-I obtained my bachelor degree from [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/) (GPA: 3.95/4.0).\
+I obtained my bachelor degree from [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/) (Rank: 3, GPA: 3.95/4.0).\
 I am interested in bandit theory and application. I am always open for possible collaborations. Please feel free to contact me.
 
 
