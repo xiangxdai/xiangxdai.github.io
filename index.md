@@ -26,7 +26,6 @@ I am interested in bandit theory and application. I am always open for possible 
  (Highest honor in HUST, 20 students from  National Scholarship obtainers, &asymp; 0.07%)
 + 2023, &ensp; Bachelor of Honours \
    (Highest honor for graduates in HUST in academic performance, 199/6500&asymp;3%)
-+ 2020-2023, &ensp; Outstanding Undergraduate Student  (Top 1% in HUST)
 + 2022,   &ensp;   National Scholarship
 
 
