@@ -12,8 +12,7 @@
 </div>
 
 ## About me
-I am a new Ph.D. student in [Advanced Networking and System Research Laboratory (ANSRLab)](http://ansrlab.cse.cuhk.edu.hk/) supervised by [Prof.John C.S. Lui](https://www.cse.cuhk.edu.hk/~cslui/). \
-I obtained my bachelor degree from [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/).\
+I am a new Ph.D. student in [Advanced Networking and System Research Laboratory (ANSRLab)](http://ansrlab.cse.cuhk.edu.hk/) supervised by [Prof.John C.S. Lui](https://www.cse.cuhk.edu.hk/~cslui/). Before that, I obtained my bachelor degree from [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/).\
 I am interested in bandit theory and application. I am always open for possible collaborations. Please feel free to contact me.
 
 
@@ -21,9 +20,10 @@ I am interested in bandit theory and application. I am always open for possible 
 + **Xiangxiang Dai**, Peng Yang, Xinyu Zhang, Zhewei Dai, and Li Yu, RESPIRE: Reducing Spatial–Temporal Redundancy for Efficient Edge-Based Industrial Video Analytics. IEEE Transactions on Industrial Informatics, vol. 18, no. 12, pp. 9324–9334, 2022. (JCR Q1, IF: 12.3).
 
 ## Awards
-+ 2023-2027, Provost’s Strategic Allocation of Centrally-funded RPg Scholarship (30 places in CUHK)
++ 2023-2027, Provost’s Strategic Allocation of Centrally-funded RPg Scholarship \
+  (30 places in CUHK)
 + 2022,  &ensp; Pacemaker to Merit Student \
- (Highest honor for undergraduates in HUST, 20 students selected from  National Scholarship obtainers, &asymp; 0.07%)
+ (Highest honor in HUST, 20 students from  National Scholarship obtainers, &asymp; 0.07%)
 + 2023, &ensp; Bachelor of Honours \
    (Highest honor for graduates in HUST in academic performance, 199/6500&asymp;3%)
 + 2020-2023, &ensp; Outstanding Undergraduate Student  (Top 1% in HUST)
