@@ -20,7 +20,7 @@ I am interested in bandit theory and application. I am always open for possible 
 + **Xiangxiang Dai**, Peng Yang, Xinyu Zhang, Zhewei Dai, and Li Yu, RESPIRE: Reducing Spatial–Temporal Redundancy for Efficient Edge-Based Industrial Video Analytics. IEEE Transactions on Industrial Informatics, vol. 18, no. 12, pp. 9324–9334, 2022. (JCR Q1, IF: 12.3).
 
 ## Awards
-+ 2023-2027, Provost’s Strategic Allocation of Centrally-funded RPg Scholarship \
++ 2023-2027,  &ensp; Provost’s Strategic Allocation of Centrally-funded RPg Scholarship \
   (30 places in CUHK)
 + 2022,  &ensp; Pacemaker to Merit Student \
  (Highest honor in HUST, 20 students from  National Scholarship obtainers, &asymp; 0.07%)
