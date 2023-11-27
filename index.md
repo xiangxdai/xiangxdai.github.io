@@ -15,7 +15,7 @@
 I am a new Ph.D. student in [Advanced Networking and System Research Laboratory (ANSRLab)](http://ansrlab.cse.cuhk.edu.hk/) supervised by [Prof. John C.S. Lui](https://www.cse.cuhk.edu.hk/~cslui/). Before that, I obtained my bachelor's degree from [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/). I am interested in bandit theory and application. I am always open to possible collaborations. Please feel free to contact me.
 
 
-## Research 
+## Publication 
 + **Xiangxiang Dai**, Peng Yang, Xinyu Zhang, Zhewei Dai, and Li Yu, *RESPIRE: Reducing Spatial–Temporal Redundancy for Efficient Edge-Based Industrial Video Analytics*. IEEE Transactions on Industrial Informatics, vol. 18, no. 12, pp. 9324–9334, 2022. (SCI Q1, IF: 12.3).
 
 ## Awards
@@ -27,6 +27,8 @@ I am a new Ph.D. student in [Advanced Networking and System Research Laboratory 
    (Highest honor for graduates in HUST in academic performance, 199/6500&asymp;3%)
 + 2022,   &ensp;   National Scholarship
 
+## Services
++ Journal Reviewer: IEEE Internet of Things Journal
 
 
 
