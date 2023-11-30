@@ -19,8 +19,8 @@ I am a new Ph.D. student in [Advanced Networking and System Research Laboratory 
 + **Xiangxiang Dai**, Peng Yang, Xinyu Zhang, Zhewei Dai, and Li Yu, *RESPIRE: Reducing Spatial–Temporal Redundancy for Efficient Edge-Based Industrial Video Analytics*. IEEE Transactions on Industrial Informatics, vol. 18, no. 12, pp. 9324–9334, 2022. (SCI Q1, IF: 12.3).
 
 ## Awards
-+ 2023-2027,  &ensp; Provost’s Strategic Allocation of Centrally-funded RPg Scholarship \
-  (30 places in CUHK)
++ 2023-2027,  &ensp; CUHK Vice-Chancellor's PhD Scholarship \
+  (Only 30 PhD students in the whole university of CUHK)
 + 2022,  &ensp; Pacemaker to Merit Student \
  (Highest honor in HUST, 20 students from  National Scholarship obtainers, &asymp;0.07%)
 + 2023, &ensp; Honour Bachelor  \
