@@ -12,7 +12,7 @@
 </div>
 
 ## About me
-I am a new Ph.D. student in [Advanced Networking and System Research Laboratory (ANSRLab)](http://ansrlab.cse.cuhk.edu.hk/) supervised by [Prof. John C.S. Lui](https://www.cse.cuhk.edu.hk/~cslui/). Before that, I obtained my bachelor's degree from [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/) (GPA: 3.95/4.0). I am interested in bandit theory and application. I am always open to possible collaborations. Please feel free to contact me.
+I am a new Ph.D. student in [Advanced Networking and System Research Laboratory (ANSRLab)](http://ansrlab.cse.cuhk.edu.hk/) supervised by [Prof. John C.S. Lui](https://www.cse.cuhk.edu.hk/~cslui/). Before that, I obtained my bachelor's degree (Advanced Class, GPA: 3.95/4.0) from the [Department of Electronics and Information Engineering](http://ei.hust.edu.cn/) at [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/). I am interested in bandit theory and application. I am always open to possible collaborations. Please feel free to contact me.
 
 
 ## Publication 
