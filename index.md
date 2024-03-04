@@ -16,7 +16,7 @@ I am a new Ph.D. student in [Advanced Networking and System Research Laboratory 
 
 
 ## Publication 
-+ **Xiangxiang Dai**, Peng Yang, Xinyu Zhang, Zhewei Dai, and Li Yu, *RESPIRE: Reducing Spatial–Temporal Redundancy for Efficient Edge-Based Industrial Video Analytics*. IEEE Transactions on Industrial Informatics, vol. 18, no. 12, pp. 9324–9334, 2022. (SCI Q1, IF: 12.3).
++ **Xiangxiang Dai**, Peng Yang, Xinyu Zhang, Zhewei Dai, and Li Yu, *RESPIRE: Reducing Spatial–Temporal Redundancy for Efficient Edge-Based Industrial Video Analytics*. IEEE Transactions on Industrial Informatics, vol. 18, no. 12, pp. 9324–9334, 2022. (SCI Q1).
 
 ## Awards
 + 2023-2027,  &ensp; CUHK Vice-Chancellor's PhD Scholarship \
@@ -28,7 +28,7 @@ I am a new Ph.D. student in [Advanced Networking and System Research Laboratory 
 + 2022,   &ensp;   National Scholarship
 
 ## Services
-+ Journal Reviewer: IEEE Internet of Things Journal
++ Journal Reviewer: IEEE Internet of Things Journal (SCI Q1).
 
 
 
