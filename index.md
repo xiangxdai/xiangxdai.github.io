@@ -12,7 +12,7 @@
 </div>
 
 ## About me
-I am a new Ph.D. student in [Advanced Networking and System Research Laboratory (ANSRLab)](http://ansrlab.cse.cuhk.edu.hk/) supervised by [Prof. John C.S. Lui](https://www.cse.cuhk.edu.hk/~cslui/)  (ACM/IEEE Fellow). Before that, I obtained my bachelor's degree (Advanced Class, GPA: 3.95/4.0) from the [Department of Electronics and Information Engineering](http://ei.hust.edu.cn/) at [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/). I am interested in reinforcement learning and bandit theory and their algorithm design for various kinds of applications, such as web recommendation systems, video analytics, computer networks, and larger language models. I am always open to possible collaborations. Please feel free to contact me.
+I am a new Ph.D. student in [Advanced Networking and System Research Laboratory (ANSRLab)](http://ansrlab.cse.cuhk.edu.hk/) supervised by [Prof. John C.S. Lui](https://www.cse.cuhk.edu.hk/~cslui/)  (ACM/IEEE Fellow). Before that, I obtained my bachelor's degree (Advanced Class, GPA: 3.95/4.0) from the [Department of Electronics and Information Engineering](http://ei.hust.edu.cn/) at [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/). I am interested in reinforcement learning and bandit theory and their algorithm design for various applications, such as web recommendation systems, video analytics, computer networks, and large language models. I am always open to possible collaborations. Please feel free to contact me.
 
 
 ## Publication 
@@ -24,7 +24,7 @@ I am a new Ph.D. student in [Advanced Networking and System Research Laboratory 
 + 2022,  &ensp; Pacemaker to Merit Student \
  (Highest honor in HUST, 20 students from  National Scholarship obtainers, &asymp;0.07%)
 + 2023, &ensp; Honour Bachelor  \
-   (Highest honor for graduates in HUST in academic performance, 199/6500&asymp;3%)
+   (The highest honor for graduates in HUST in academic performance, 199/6500&asymp;3%)
 + 2022,   &ensp;   National Scholarship
 
 ## Services
