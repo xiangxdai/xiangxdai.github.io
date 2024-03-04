@@ -12,7 +12,7 @@
 </div>
 
 ## About me
-I am a new Ph.D. student in [Advanced Networking and System Research Laboratory (ANSRLab)](http://ansrlab.cse.cuhk.edu.hk/) supervised by [Prof. John C.S. Lui](https://www.cse.cuhk.edu.hk/~cslui/)  (ACM/IEEE Fellow). Before that, I obtained my bachelor's degree (Advanced Class, GPA: 3.95/4.0) from the [Department of Electronics and Information Engineering](http://ei.hust.edu.cn/) at [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/). I am interested in reinforcement learning and bandit theory and their algorithm design for various applications, such as web recommendation systems, video analytics, computer networks, and large language models. I am always open to possible collaborations. Please feel free to contact me.
+I am a new Ph.D. student in [Advanced Networking and System Research Laboratory (ANSRLab)](http://ansrlab.cse.cuhk.edu.hk/) supervised by [Prof. John C.S. Lui](https://www.cse.cuhk.edu.hk/~cslui/)  (ACM/IEEE Fellow) at the [Department of Computer Science & Engineering](https://www.cse.cuhk.edu.hk), [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html). Before that, I obtained my bachelor's degree (Advanced Class, GPA: 3.95/4.0) from the [Department of Electronics and Information Engineering](http://ei.hust.edu.cn/) at [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/). I am interested in reinforcement learning and bandit theory and their algorithm design for various applications, such as web recommendation systems, video analytics, computer networks, and large language models. I am always open to possible collaborations. Please feel free to contact me.
 
 
 ## Publication 
