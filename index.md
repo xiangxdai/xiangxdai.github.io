@@ -22,9 +22,9 @@ I am a new Ph.D. student in [Advanced Networking and System Research Laboratory 
 + 2023-2027,  &ensp; CUHK Vice-Chancellor's PhD Scholarship \
   (Only 30 PhD students in the whole university of CUHK)
 + 2022,  &ensp; Pacemaker to Merit Student \
- (Highest honor in HUST, 20 students from  National Scholarship obtainers, &asymp;0.07%)
+ (The Highest honor in HUST, 20 students from  National Scholarship obtainers, &asymp;0.07%)
 + 2023, &ensp; Honour Bachelor  \
-   (The highest honor for graduates in HUST in academic performance, 199/6500&asymp;3%)
+   (The highest honor for graduates in HUST on academic performance, 199/6500&asymp;3%)
 + 2022,   &ensp;   National Scholarship
 
 ## Services
