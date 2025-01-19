@@ -10,11 +10,20 @@ author_profile: true
 ------
 (\*equal contribution)<be>
 
-# Conferences:
+# Preprints
+- **[[arXiv]](https://arxiv.org/abs/2501.00891)** ***Demystifying Online Clustering of Bandits: Enhanced Exploration Under Stochastic and Smoothed Adversarial Contexts***<br>
+Zhuohua Li, Maoli Liu, **Xiangxiang Dai**, John C.S. Lui.<br>
 
-- **[Preprint]** ***Cost-Effective Online Multi-LLM Selection with Versatile Reward Models***<br>
+
+- **[[arXiv]](https://arxiv.org/abs/2501.01849)** ***Multi-Agent Conversational Online Learning for Adaptive LLM Response Identification***<br>
+**Xiangxiang Dai**, Yuejin Xie, Maoli Liu, Xuchuang Wang, Zhuohua Li, Huanyu Wang, John C.S. Lui.<br>
+
+
+- **[[arXiv]](https://arxiv.org/abs/2405.16587)** ***Cost-Effective Online Multi-LLM Selection with Versatile Reward Models***<br>
 **Xiangxiang Dai**, Jin Li, Xutong Liu, Anqi Yu, John C.S. Lui.<br>
-[[arXiv]](https://arxiv.org/abs/2405.16587)<br>
+
+
+# Conferences:
 
 - **[Sigmetrics]** ***Combinatorial Logistic Bandits***<br>
 Xutong Liu, **Xiangxiang Dai**, Xuchuang Wang, Mohammad Hajiesmaili, John C.S. Lui.<br>
@@ -37,6 +46,7 @@ Accepted in the IEEE/ACM International Symposium on Quality of Service (**IWQoS*
 - **[ToN]** ***Variance-Aware Bandit Framework for Dynamic Probabilistic Maximum Coverage Problem with Triggered or Self-Reliant Arms***<br>
 **Xiangxiang Dai**, Xutong Liu, Jinhang Zuo, Hong Xie, Carlee Joe-Wong, John C.S. Lui.<br>
 Accepted to IEEE/ACM Transactions on Networking (**ToN**), 2025.  (CCF A)<br>
+ [[Link]](https://ieeexplore.ieee.org/document/10821481)
 
 - **[TKDE]** ***Conversational Recommendation with Online Learning and Clustering on Misspecified Users***<br>
 **Xiangxiang Dai**\*, Zhiyong Wang\*, Jize Xie, Xutong Liu, John C.S. Lui.<br>
