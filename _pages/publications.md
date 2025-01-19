@@ -11,15 +11,15 @@ author_profile: true
 (\*equal contribution)<be>
 
 # Preprints
-- **[[arXiv]](https://arxiv.org/abs/2501.00891)** ***Demystifying Online Clustering of Bandits: Enhanced Exploration Under Stochastic and Smoothed Adversarial Contexts***<br>
+- [[arXiv]](https://arxiv.org/abs/2501.00891) ***Demystifying Online Clustering of Bandits: Enhanced Exploration Under Stochastic and Smoothed Adversarial Contexts***<br>
 Zhuohua Li, Maoli Liu, **Xiangxiang Dai**, John C.S. Lui.<br>
 
 
-- **[[arXiv]](https://arxiv.org/abs/2501.01849)** ***Multi-Agent Conversational Online Learning for Adaptive LLM Response Identification***<br>
+- [[arXiv]](https://arxiv.org/abs/2501.01849) ***Multi-Agent Conversational Online Learning for Adaptive LLM Response Identification***<br>
 **Xiangxiang Dai**, Yuejin Xie, Maoli Liu, Xuchuang Wang, Zhuohua Li, Huanyu Wang, John C.S. Lui.<br>
 
 
-- **[[arXiv]](https://arxiv.org/abs/2405.16587)** ***Cost-Effective Online Multi-LLM Selection with Versatile Reward Models***<br>
+- [[arXiv]](https://arxiv.org/abs/2405.16587) ***Cost-Effective Online Multi-LLM Selection with Versatile Reward Models***<br>
 **Xiangxiang Dai**, Jin Li, Xutong Liu, Anqi Yu, John C.S. Lui.<br>
 
 
