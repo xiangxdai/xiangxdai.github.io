@@ -11,10 +11,6 @@ author_profile: true
 (\*equal contribution)<be>
 
 # Preprints
-- [[arXiv]](https://arxiv.org/abs/2501.00891) ***Demystifying Online Clustering of Bandits: Enhanced Exploration Under Stochastic and Smoothed Adversarial Contexts***<br>
-Zhuohua Li, Maoli Liu, **Xiangxiang Dai**, John C.S. Lui.<br>
-
-
 - [[arXiv]](https://arxiv.org/abs/2501.01849) ***Multi-Agent Conversational Online Learning for Adaptive LLM Response Identification***<br>
 **Xiangxiang Dai**, Yuejin Xie, Maoli Liu, Xuchuang Wang, Zhuohua Li, Huanyu Wang, John C.S. Lui.<br>
 
@@ -24,6 +20,17 @@ Zhuohua Li, Maoli Liu, **Xiangxiang Dai**, John C.S. Lui.<br>
 
 
 # Conferences:
+
+- **[ICLR]** ***Demystifying Online Clustering of Bandits: Enhanced Exploration Under Stochastic and Smoothed Adversarial Contexts***<br>
+Zhuohua Li, Maoli Liu, **Xiangxiang Dai**, John C.S. Lui.<br>
+Accepted in the International Conference on Learning Representations (**ICLR**), 2025. (TH-CPL A)<br>
+[[OpenReview]](https://openreview.net/forum?id=421D67DY3i)
+
+
+- **[WWW]** ***Towards Efficient Conversational Recommendations: Expected Value of Information Meets Bandit Learning***<br>
+Zhuohua Li, Maoli Liu, **Xiangxiang Dai**, John C.S. Lui.<br>
+Accepted in the The Web Conference (WWW), 2025. (409/2062=19.8%, CCF A)<br>
+
 
 - **[Sigmetrics]** ***Combinatorial Logistic Bandits***<br>
 Xutong Liu, **Xiangxiang Dai**, Xuchuang Wang, Mohammad Hajiesmaili, John C.S. Lui.<br>
@@ -45,7 +52,7 @@ Accepted in the IEEE/ACM International Symposium on Quality of Service (**IWQoS*
 # Journals:
 - **[ToN]** ***Variance-Aware Bandit Framework for Dynamic Probabilistic Maximum Coverage Problem with Triggered or Self-Reliant Arms***<br>
 **Xiangxiang Dai**, Xutong Liu, Jinhang Zuo, Hong Xie, Carlee Joe-Wong, John C.S. Lui.<br>
-Accepted to IEEE/ACM Transactions on Networking (**ToN**), 2025.  (CCF A)<br>
+Accepted in the IEEE/ACM Transactions on Networking (**ToN**), 2025.  (CCF A)<br>
  [[Link]](https://ieeexplore.ieee.org/document/10821481)
 
 - **[TKDE]** ***Conversational Recommendation with Online Learning and Clustering on Misspecified Users***<br>
