@@ -34,7 +34,7 @@ author_profile: true
    Sharing at Huawei Basic Software Innovation Lab, Virtual. 2024.03.
 
 # Teaching Assistantships
-+  *ENGG1110: Problem Solving By Programming*, CUHK, Spring 2025
++ *ENGG1110: Problem Solving By Programming*, CUHK, Spring 2025
 + *CSCI2040: Introduction to Python*, CUHK, Fall 2024
 + *CSCI2040: Introduction to Python*, CUHK, Spring 2024
 + *CSCI2040: Introduction to Python*, CUHK, Fall 2023
