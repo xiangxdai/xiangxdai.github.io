@@ -14,7 +14,7 @@ I am a Ph.D. student in [Advanced Networking and System Research Laboratory](htt
 
 # Research
 
-I am passionate about data-driven online sequential decision-making under uncertainty, such as reinforcement learning and bandit algorithms, which enhance decision-making through continuous learning from new data and strategy adjustments. My focus also includes developing and refining online learning algorithms for diverse applications such as web recommendation systems, multimedia platforms, computer networks, and large language models. I aim to create efficient, scalable solutions with provable learning efficiency and strong generalizability guarantees in these areas. I welcome opportunities for collaboration—please feel free to contact me (E-mail: xiangxdai0@gmail.com).
+I am passionate about data-driven sequential decision-making under uncertainty, such as reinforcement learning and bandit algorithms, which enhance decision-making through continuous learning from new data and strategy adjustments. My focus also includes developing and refining decision-making algorithms under uncertainty for diverse applications such as web recommendation systems, multimedia platforms, computer networks, and large language models. I aim to create efficient, scalable solutions with provable learning efficiency and strong generalizability guarantees in these areas. I welcome opportunities for collaboration—please feel free to contact me (E-mail: xiangxdai0@gmail.com).
 
 
 
