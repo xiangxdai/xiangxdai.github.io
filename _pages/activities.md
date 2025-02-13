@@ -14,12 +14,12 @@ author_profile: true
 + IEEE/ACM Transactions on Networking (TON)
 + IEEE Internet of Things Journal (IoT-J)
 
-## PC Member 
-+ The Web Conference (WWW) 2025
 
-## Conference Reviewer
+
+## PC Member/Conference Reviewer
 + International Conference on Machine Learning (ICML) 2025
 + International Conference on Artificial Intelligence and Statistics (AISTATS) 2025
++ The Web Conference (WWW) 2025
 + International Conference on Learning Representations (ICLR) 2025
 + IEEE International Conference on Multimedia & Expo (ICME) 2025 
 + Neural Information Processing Systems (NeurIPS) 2024
