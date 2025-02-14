@@ -17,6 +17,7 @@ author_profile: true
 
 
 ## PC Member/Conference Reviewer
++ ACM Knowledge Discovery and Data Mining (KDD) 2025
 + International Conference on Machine Learning (ICML) 2025
 + International Conference on Artificial Intelligence and Statistics (AISTATS) 2025
 + The Web Conference (WWW) 2025
