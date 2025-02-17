@@ -24,7 +24,7 @@ author_profile: true
 + The Web Conference (WWW) 2025
 + International Conference on Learning Representations (ICLR) 2025
 + IEEE International Conference on Multimedia & Expo (ICME) 2025 
-+ Neural Information Processing Systems (NeurIPS) 2024
++ Neural Information Processing Systems (NeurIPS) 2024, 2025
 
 
 
