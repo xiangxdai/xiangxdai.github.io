@@ -14,17 +14,14 @@ I am a Ph.D. student in [Advanced Networking and System Research Laboratory](htt
 
 # Research
 
-My research centers on ``*advancing machine learning methodologies for data-driven sequential decision-making under uncertainty in AI systems*''. By developing **theoretically grounded frameworks**, such as **reinforcement learning**, **online learning**, and **multi-armed bandits**, I strive to design **efficient**, **scalable**, and **trustworthy** algorithms. 
+My research centers on "*advancing machine learning methodologies for data-driven sequential decision-making under uncertainty in AI systems*". By developing **theoretically grounded frameworks**, such as **reinforcement learning**, **online learning**, and **multi-armed bandits**, I strive to design **efficient**, **scalable**, and **trustworthy** algorithms. 
 
 My work emphasizes bridging theoretical rigor with practical impact across **AI computing and communication applications**, particularly in:
-
-• AI-empowered network optimization and edge/mobile/cloud computing architectures;
-
-• Adaptive recommendation engines and multimedia content delivery systems;
-
-• Foundation language model enhancement through strategic learning paradigms.
-
-I always welcome discussions and collaborations. Feel free to reach out via email: xiangxdai0 [at] gmail [dot] com.
+- AI-empowered network optimization and edge/mobile/cloud computing architectures;
+- Adaptive recommendation engines and multimedia content delivery systems;
+- Foundation language model enhancement through strategic learning paradigms.
+  
+I always welcome discussions and collaborations. Feel free to reach out via email: "xiangxdai0 [at] gmail.com" (recommended) or "xxdai23 [at] cse.cuhk.edu.hk". 
 
 
 
