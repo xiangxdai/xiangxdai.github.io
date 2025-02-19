@@ -19,7 +19,7 @@ My research centers on "*advancing machine learning methodologies for data-drive
 My work emphasizes bridging theoretical rigor with practical impact across **AI computing and communication applications**, particularly in:
 - AI-empowered network optimization and edge/mobile/cloud computing architectures;
 - Adaptive recommendation engines and multimedia content delivery systems;
-- Foundation language model enhancement through strategic learning paradigms.
+- Large language model enhancement and scheduling through learning paradigms.
   
 I always welcome discussions and collaborations. Feel free to reach out via email: "xiangxdai0 [at] gmail.com" (recommended) or "xxdai23 [at] cse.cuhk.edu.hk". 
 
