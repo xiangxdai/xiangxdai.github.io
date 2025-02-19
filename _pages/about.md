@@ -40,5 +40,5 @@ I always welcome discussions and collaborations. Feel free to reach out via emai
 
 # Internships and Research Experiences
 + 2024.06-2024.08, &ensp; Intern at Huawei 2012 Lab as a member of "Huawei Brave Star" Program, Hangzhou, China; Leader: Distinguished Professor [Haibo Chen](https://ipads.se.sjtu.edu.cn/pub/members/haibo_chen) (ACM/IEEE Fellow, Huawei Fellow).	
-+ 2023.06-2023.08, &ensp; Research Intern of  Prof. [Chuan Wu](https://i.cs.hku.hk/~cwu/index.html) at [The University of Hong Kong](https://www.hku.hk/), Hong Kong, China. 
++ 2023.06-2023.08, &ensp; Research Intern of  Prof. [Chuan Wu](https://i.cs.hku.hk/~cwu/index.html) (IEEE Fellow) at [The University of Hong Kong](https://www.hku.hk/), Hong Kong, China. 
 + 2020.09-2023.06, &ensp; Research Intern of  Prof. [Peng Yang](http://faculty.hust.edu.cn/pyang/en) at [Digital Media and Intelligent Networks Lab](https://hustdmin.github.io/), Wuhan, China. 
