@@ -10,9 +10,11 @@ author_profile: true
 ------
 # Academic Services
 ## Journal Reviewer
-+ Knowledge and Information Systems (KAIS)
 + IEEE Transactions on Knowledge and Data Engineering (TKDE)
 + IEEE/ACM Transactions on Networking (TON)
++ ACM Transactions on Intelligent Systems and Technology (TIST)
++ IEEE/ACM Transactions on Networking (TON)
++ Knowledge and Information Systems (KAIS)
 + IEEE Internet of Things Journal (IoT-J)
 
 
