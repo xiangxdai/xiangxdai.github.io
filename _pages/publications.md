@@ -57,7 +57,7 @@ Accepted in the IEEE/ACM International Symposium on Quality of Service (**IWQoS*
 - **[T-ITS]** ***Enhancing Cooperative LiDAR-based Perception Accuracy in Vehicular Edge Networks***<br>
 Jiawei Hou, Peng Yang, **Xiangxiang Dai**, Tian Qin, Feng Lyu.<br>
 Accepted in the IEEE Transactions on Intelligent Transportation Systems (**T-ITS**), 2025.  <br>
-
+ [[Link]](https://ieeexplore.ieee.org/document/10901958)
 
 - **[TON]** ***Variance-Aware Bandit Framework for Dynamic Probabilistic Maximum Coverage Problem with Triggered or Self-Reliant Arms***<br>
 **Xiangxiang Dai**, Xutong Liu, Jinhang Zuo, Hong Xie, Carlee Joe-Wong, John C.S. Lui.<br>
