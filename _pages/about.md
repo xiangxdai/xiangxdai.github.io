@@ -30,7 +30,7 @@ I always welcome discussions and collaborations. Feel free to reach out via emai
 # Selected Awards
 <!--+ 2024-2027, &ensp; Huawei PhD Fellowship -->
 + 2023-2027,  &ensp; CUHK Provost's Strategic Allocation of Centrally-funded RPg Places \
-  (30 recipients worldwide, support 880K HK dollars for 4 years)
+  (30 recipients worldwide, support 1.4M HK dollars for 4 years)
 + 2022,  &ensp; Pacemaker to Merit Student \
 (The highest honor in HUST, awarded to 20 students from all undergraduate grades, from National Scholarship recipients across the university, ≈0.07%)
 + 2023, &ensp; Honour Bachelor  \
