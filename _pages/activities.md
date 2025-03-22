@@ -32,6 +32,8 @@ author_profile: true
 
 
 # Talks
++ ***Unlocking Research Potential with LLMs: A Comprehensive Guide from Reading to Innovation*** \
+Sharing at Optics Joint Academic Annual Conference Special Session, Tianjin, China. 2025.03
 + ***Quantifying the Merits of Network-Assist Online Learning in Optimizing Network Protocols*** \
    Sharing at The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China. 2024.06.
 + ***Enhanced Economical Combinatorial Adaptation Framework for LLM*** \
