@@ -33,11 +33,12 @@ author_profile: true
 
 # Talks
 + ***Unlocking Research Potential with LLMs: A Comprehensive Guide from Reading to Innovation*** \
-Sharing at Optics Joint Academic Annual Conference and Academic Society Council, Tianjin, China. 2025.03
+Sharing at Optics Joint Academic Annual Conference and Academic Society Council. 2025.03 \
+Sharing at School of Precision Instrument and Opto-Electronies Engineering, Tianjin University. 2025.03
 + ***Quantifying the Merits of Network-Assist Online Learning in Optimizing Network Protocols*** \
-   Sharing at The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China. 2024.06.
+   Sharing at The Hong Kong University of Science and Technology (Guangzhou). 2024.06
 + ***Enhanced Economical Combinatorial Adaptation Framework for LLM*** \
-   Sharing at Huawei Basic Software Innovation Lab, Virtual. 2024.03.
+   Sharing at Huawei Basic Software Innovation Lab. 2024.03
 
 # Teaching Assistantships
 + *ENGG1110: Problem Solving By Programming*, CUHK, Spring 2025
