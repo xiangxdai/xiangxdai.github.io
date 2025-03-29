@@ -14,7 +14,7 @@ I am a Ph.D. student in [ANSR Lab](http://ansrlab.cse.cuhk.edu.hk/), supervised 
 
 # Research
 
-My research centers on "*advancing machine learning methodologies for data-driven decision-making under uncertainty in AI systems*". By developing **theoretically grounded frameworks**, such as **reinforcement learning**, **online learning**, and **multi-armed bandits**, I strive to design **efficient**, **scalable**, and **trustworthy** algorithms. 
+My research centers on "*advancing machine learning for decision-making under uncertainty in AI systems*". By developing **theoretically grounded frameworks**, such as **reinforcement learning**, **online learning**, and **multi-armed bandits**, I strive to design **efficient**, **scalable**, and **trustworthy** algorithms. 
 
 
 My work bridges theoretical rigor with practical impact, with a particular focus on **AI computing and communication applications**. The ultimate goal is to develop **intelligent agents capable of making optimal decisions** in dynamic and uncertain environments. These agents have significant applications across various domains, such as:
@@ -30,7 +30,7 @@ I always welcome discussions and collaborations. Feel free to reach out via emai
 # Selected Awards
 <!--+ 2024-2027, &ensp; Huawei PhD Fellowship -->
 + 2023-2027,  &ensp; CUHK Provost's Strategic Allocation of Centrally-funded RPg Places \
-  (30 recipients worldwide, support 0.89M HK dollars for 4 years)
+  (30 recipients worldwide, supporting 0.89M HK dollars for 4 years)
 + 2022,  &ensp; Pacemaker to Merit Student \
 (The highest honor in HUST, awarded to 20 students from all undergraduate grades, from National Scholarship recipients across the university, ≈0.07%)
 + 2023, &ensp; Honour Bachelor  \
