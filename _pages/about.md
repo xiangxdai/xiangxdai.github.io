@@ -31,7 +31,7 @@ I always welcome discussions and collaborations. Feel free to reach out via emai
 <!--+ 2024-2027, &ensp; Huawei PhD Fellowship -->
 + 2023-2027,  &ensp; CUHK Provost's Strategic Allocation of Centrally-funded RPg Places \
   (30 recipients worldwide, supporting 0.89M HK dollars for 4 years)
-+ Student Travel Award of ACM MM, 2024  
++ 2024, Student Travel Award of ACM MM
 + 2022,  &ensp; Pacemaker to Merit Student \
 (The highest honor in HUST, awarded to 20 students from all undergraduate grades, from National Scholarship recipients across the university, ≈0.07%)
 + 2023, &ensp; Honour Bachelor  \
