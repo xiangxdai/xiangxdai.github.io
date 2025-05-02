@@ -11,10 +11,6 @@ author_profile: true
 (\*equal contribution)<be>
 
 # Preprints
-- [[arXiv]](https://arxiv.org/abs/2501.19300)  ***Offline Learning for Combinatorial Multi-armed Bandits***<br>
-Xutong Liu, **Xiangxiang Dai**, Jinhang Zuo, Siwei Wang, Carlee-Joe Wong, John C.S. Lui, Wei Chen.<br>
-
-
 - [[arXiv]](https://arxiv.org/abs/2501.01849) ***Multi-Agent Conversational Online Learning for Adaptive LLM Response Identification***<br>
 **Xiangxiang Dai**, Yuejin Xie, Maoli Liu, Xuchuang Wang, Zhuohua Li, Huanyu Wang, John C.S. Lui.<br>
 
@@ -24,6 +20,10 @@ Xutong Liu, **Xiangxiang Dai**, Jinhang Zuo, Siwei Wang, Carlee-Joe Wong, John C
 
 
 # Conferences:
+- **[ICML]** ***Offline Learning for Combinatorial Multi-armed Bandits***<br>
+Xutong Liu, **Xiangxiang Dai**, Jinhang Zuo, Siwei Wang, Carlee-Joe Wong, John C.S. Lui, Wei Chen.<br>
+Accepted in the International Conference on Machine Learning (ICML), 2025. (3260/12107=26.3%).<br>
+[[arXiv]](https://arxiv.org/abs/2501.19300)
 
 - **[ICLR]** ***Demystifying Online Clustering of Bandits: Enhanced Exploration Under Stochastic and Smoothed Adversarial Contexts***<br>
 Zhuohua Li, Maoli Liu, **Xiangxiang Dai**, John C.S. Lui.<br>
