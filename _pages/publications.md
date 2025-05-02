@@ -22,13 +22,13 @@ author_profile: true
 # Conferences:
 - **[ICML]** ***Offline Learning for Combinatorial Multi-armed Bandits***<br>
 Xutong Liu, **Xiangxiang Dai**, Jinhang Zuo, Siwei Wang, Carlee-Joe Wong, John C.S. Lui, Wei Chen.<br>
-Accepted in the International Conference on Machine Learning (ICML), 2025. (3260/12107=26.3%).<br>
+Accepted in the International Conference on Machine Learning (**ICML**), 2025. (3260/12107=26.3%).<br>
 [[arXiv]](https://arxiv.org/abs/2501.19300)
 
 - **[ICLR]** ***Demystifying Online Clustering of Bandits: Enhanced Exploration Under Stochastic and Smoothed Adversarial Contexts***<br>
 Zhuohua Li, Maoli Liu, **Xiangxiang Dai**, John C.S. Lui.<br>
 Accepted in the International Conference on Learning Representations (**ICLR**), 2025. <br>
-[[OpenReview]](https://openreview.net/forum?id=421D67DY3i)
+[[OpenReview]](https://openreview.net/forum?id=421D67DY3i), [[Poster]](https://zhuohua.me/assets/ICLR2025-Demystifying-Poster.pdf),[[arXiv]](https://arxiv.org/abs/2501.00891)
 
 
 - **[WWW]** ***Towards Efficient Conversational Recommendations: Expected Value of Information Meets Bandit Learning***<br>
@@ -39,7 +39,7 @@ Accepted in the The Web Conference (**WWW**), 2025. (409/2062=19.8%)<br>
 - **[Sigmetrics]** ***Combinatorial Logistic Bandits***<br>
 Xutong Liu, **Xiangxiang Dai**, Xuchuang Wang, Mohammad Hajiesmaili, John C.S. Lui.<br>
 Accepted in the ACM International Conference on Measurement and Modeling of Computer Systems (**Sigmetrics**), 2025. (35/223 = 15.7%)<br>
-[[arXiv]](https://arxiv.org/abs/2410.17075)
+[[arXiv]](https://arxiv.org/abs/2410.17075), [[Code]](https://github.com/xiangxdai/Combinatorial-Logistic-Bandit)
 
 - **[ACM MM]** ***AxiomVision: Accuracy-Guaranteed Adaptive Visual Model Selection for Perspective-Aware Video Analytics***<br>
 **Xiangxiang Dai**, Zeyu Zhang, Peng Yang, Yuedong Xu, Xutong Liu, John C.S. Lui.<br>
