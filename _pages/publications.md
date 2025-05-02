@@ -28,7 +28,7 @@ Accepted in the International Conference on Machine Learning (**ICML**), 2025. (
 - **[ICLR]** ***Demystifying Online Clustering of Bandits: Enhanced Exploration Under Stochastic and Smoothed Adversarial Contexts***<br>
 Zhuohua Li, Maoli Liu, **Xiangxiang Dai**, John C.S. Lui.<br>
 Accepted in the International Conference on Learning Representations (**ICLR**), 2025. <br>
-[[OpenReview]](https://openreview.net/forum?id=421D67DY3i), [[Poster]](https://zhuohua.me/assets/ICLR2025-Demystifying-Poster.pdf),[[arXiv]](https://arxiv.org/abs/2501.00891)
+[[OpenReview]](https://openreview.net/forum?id=421D67DY3i), [[Poster]](https://zhuohua.me/assets/ICLR2025-Demystifying-Poster.pdf), [[arXiv]](https://arxiv.org/abs/2501.00891)
 
 
 - **[WWW]** ***Towards Efficient Conversational Recommendations: Expected Value of Information Meets Bandit Learning***<br>
