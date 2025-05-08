@@ -10,6 +10,7 @@ author_profile: true
 ------
 # Academic Services
 ## Journal Reviewer
++ IEEE Transactions on Mobile Computing (TMC)
 + IEEE Transactions on Knowledge and Data Engineering (TKDE)
 + IEEE/ACM Transactions on Networking (TON)
 + ACM Transactions on Intelligent Systems and Technology (TIST)
