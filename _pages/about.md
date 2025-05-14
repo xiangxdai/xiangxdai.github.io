@@ -24,7 +24,9 @@ My work bridges theoretical rigor with practical impact, with a particular focus
   
 I always welcome discussions and collaborations. Feel free to reach out via email: "xiangxdai0 [at] gmail.com" (recommended) or "xxdai23 [at] cse.cuhk.edu.hk". 
 
-
+# News
++ [May, 2025] Our work has been selected as **Best Paper Finalists (Top 5)** at ACM SIGMETRICS 2025!
++ [May, 2025] I am a visiting intern under Prof. [Wei Chen](https://www.microsoft.com/en-us/research/people/weic/) at Microsoft Research Asia, Beijing. 
 
 
 # Selected Awards
