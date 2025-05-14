@@ -39,6 +39,7 @@ Accepted in the The Web Conference (**WWW**), 2025. (409/2062=19.8%)<br>
 - **[Sigmetrics]** ***Combinatorial Logistic Bandits***<br>
 Xutong Liu, **Xiangxiang Dai**, Xuchuang Wang, Mohammad Hajiesmaili, John C.S. Lui.<br>
 Accepted in the ACM International Conference on Measurement and Modeling of Computer Systems (**Sigmetrics**), 2025. (35/223 = 15.7%)<br>
+**Best Paper Finalists (Top 5)**<br>
 [[arXiv]](https://arxiv.org/abs/2410.17075), [[Code]](https://github.com/xiangxdai/Combinatorial-Logistic-Bandit)
 
 - **[ACM MM]** ***AxiomVision: Accuracy-Guaranteed Adaptive Visual Model Selection for Perspective-Aware Video Analytics***<br>
