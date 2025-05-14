@@ -11,7 +11,6 @@ redirect_from:
 I am a Ph.D. candidate in [ANSR Lab](http://ansrlab.cse.cuhk.edu.hk/), supervised by Chair Professor [John C.S. Lui](https://www.cse.cuhk.edu.hk/~cslui/)  (ACM/IEEE Fellow, Fellow of HKAES) at the [Department of Computer Science & Engineering](https://www.cse.cuhk.edu.hk), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html) (CUHK). Before that, I obtained my **honor bachelor** degree (**Advanced Class, GPA: 3.95/4.0**) from the [Department of Electronics and Information Engineering](http://ei.hust.edu.cn/) at [Huazhong University of Science and Technology](http://english.hust.edu.cn/) (HUST). 
 
 
-
 # Research
 
 My research centers on "*advancing machine learning for decision-making under uncertainty in AI systems*". By developing **theoretically grounded frameworks**, such as **reinforcement learning**, **online learning**, and **multi-armed bandits**, I strive to design **efficient**, **scalable**, and **trustworthy** algorithms. 
