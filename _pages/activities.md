@@ -24,7 +24,6 @@ author_profile: true
 + IEEE Internet of Things Journal (IoT-J)
 
 
-
 ## PC Member/Conference Reviewer
 + Neural Information Processing Systems (NeurIPS) 2024, 2025
 + ACM Knowledge Discovery and Data Mining (KDD) 2025
@@ -33,9 +32,6 @@ author_profile: true
 + The Web Conference (WWW) 2025
 + International Conference on Learning Representations (ICLR) 2025
 + IEEE International Conference on Multimedia & Expo (ICME) 2025 
-
-
-
 
 
 # Talks
