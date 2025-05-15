@@ -30,6 +30,7 @@ I always welcome discussions and collaborations. Feel free to reach out via emai
 
 # Selected Awards
 <!--+ 2024-2027, &ensp; Huawei PhD Fellowship -->
++ 2025, &ensp; Best Paper Finalists of ACM SIGMETRICS
 + 2023-2027,  &ensp; CUHK Provost's Strategic Allocation of Centrally-funded RPg Places \
   (30 recipients worldwide, supporting 0.89M HK dollars for 4 years)
 + 2024, &ensp; Student Travel Award of ACM MM
