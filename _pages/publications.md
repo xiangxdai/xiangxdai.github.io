@@ -30,7 +30,7 @@ Accepted in the ACM KDD 2025. (AR: 365/1988=18.4%)
 
 - **[ICML]** ***Offline Learning for Combinatorial Multi-armed Bandits***<br>
 Xutong Liu, **Xiangxiang Dai**, Jinhang Zuo, Siwei Wang, Carlee-Joe Wong, John C.S. Lui, Wei Chen.<br>
-Accepted in the International Conference on Machine Learning (**ICML**), 2025. (3260/12107=26.3%).<br>
+Accepted in the International Conference on Machine Learning (**ICML**), 2025. (AR: 3260/12107=26.3%).<br>
 [[arXiv]](https://arxiv.org/abs/2501.19300)
 
 - **[ICLR]** ***Demystifying Online Clustering of Bandits: Enhanced Exploration Under Stochastic and Smoothed Adversarial Contexts***<br>
@@ -41,25 +41,25 @@ Accepted in the International Conference on Learning Representations (**ICLR**),
 
 - **[WWW]** ***Towards Efficient Conversational Recommendations: Expected Value of Information Meets Bandit Learning***<br>
 Zhuohua Li, Maoli Liu, **Xiangxiang Dai**, John C.S. Lui.<br>
-Accepted in the ACM The Web Conference (**WWW**), 2025. (409/2062=19.8%)<br>
+Accepted in the ACM The Web Conference (**WWW**), 2025. (AR: 409/2062=19.8%)<br>
 [[Link]](https://dl.acm.org/doi/10.1145/3696410.3714773)
 
 
 - **[Sigmetrics]** ***Combinatorial Logistic Bandits***<br>
 Xutong Liu, **Xiangxiang Dai**, Xuchuang Wang, Mohammad Hajiesmaili, John C.S. Lui.<br>
-Accepted in the ACM International Conference on Measurement and Modeling of Computer Systems (**Sigmetrics**), 2025. (35/223 = 15.7%)<br>
+Accepted in the ACM International Conference on Measurement and Modeling of Computer Systems (**Sigmetrics**), 2025. (AR: 35/223 = 15.7%)<br>
 **Best Paper Finalists (Top 5)**<br>
 [[arXiv]](https://arxiv.org/abs/2410.17075), [[Code]](https://github.com/xiangxdai/Combinatorial-Logistic-Bandit)
 
 - **[ACM MM]** ***AxiomVision: Accuracy-Guaranteed Adaptive Visual Model Selection for Perspective-Aware Video Analytics***<br>
 **Xiangxiang Dai**, Zeyu Zhang, Peng Yang, Yuedong Xu, Xutong Liu, John C.S. Lui.<br>
-Accepted in the ACM Multimedia (**MM**), 2024. (1149/4385 = 26.2%)<br>
+Accepted in the ACM Multimedia (**MM**), 2024. (AR: 1149/4385 = 26.2%)<br>
 [[Link]](https://dl.acm.org/doi/10.1145/3664647.3681269), [[arXiv]](https://arxiv.org/abs/2407.20124), [[Poster]](https://xiangxdai.github.io/files/Poster4ACMMM24.pdf), [[Code]](https://github.com/zeyuzhangzyz/AxiomVision), [[ACM showcase on Kudos]](https://www.growkudos.com/publications/10.1145%25252F3664647.3681269/reader)<br>
 
 
 - **[IWQoS]** ***Quantifying the Merits of Network-Assist Online Learning in Optimizing Network Protocols***<br>
 **Xiangxiang Dai**\*, Zhiyong Wang\*, Jiancheng Ye, and John C.S. Lui.<br>
-Accepted in the IEEE/ACM International Symposium on Quality of Service (**IWQoS**), 2024. (81/326 = 24.8%)<br>
+Accepted in the IEEE/ACM International Symposium on Quality of Service (**IWQoS**), 2024. (AR: 81/326 = 24.8%)<br>
 [[Link]](https://ieeexplore.ieee.org/document/10682895),  [[PDF]](https://xiangxdai.github.io/files/IWQoS24.pdf), [[Slides]](https://xiangxdai.github.io/files/Slides4IWQoS24.pdf)<br>
 
 
