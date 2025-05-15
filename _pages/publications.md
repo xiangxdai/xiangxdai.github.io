@@ -20,6 +20,14 @@ author_profile: true
 
 
 # Conferences:
+- **[SIGKDD]** ***A Unified Online-Offline Framework for Co-Branding Campaign Recommendations***<br>
+**Xiangxiang Dai**, Xiaowei Sun, Jinhang Zuo, Xutong Liu, John C.S. Lui<br>
+Accepted in the ACM KDD 2025. (AR: 365/1988=18.4%)
+
+- **[SIGKDD]** ***Leveraging the Power of Conversations: Optimal Key Term Selection in Conversational Contextual Bandits***<br>
+Maoli Liu, Zhuohua Li, **Xiangxiang Dai**, John C.S. Lui.<br>
+Accepted in the ACM KDD 2025. (AR: 365/1988=18.4%)
+
 - **[ICML]** ***Offline Learning for Combinatorial Multi-armed Bandits***<br>
 Xutong Liu, **Xiangxiang Dai**, Jinhang Zuo, Siwei Wang, Carlee-Joe Wong, John C.S. Lui, Wei Chen.<br>
 Accepted in the International Conference on Machine Learning (**ICML**), 2025. (3260/12107=26.3%).<br>
@@ -33,7 +41,8 @@ Accepted in the International Conference on Learning Representations (**ICLR**),
 
 - **[WWW]** ***Towards Efficient Conversational Recommendations: Expected Value of Information Meets Bandit Learning***<br>
 Zhuohua Li, Maoli Liu, **Xiangxiang Dai**, John C.S. Lui.<br>
-Accepted in the The Web Conference (**WWW**), 2025. (409/2062=19.8%)<br>
+Accepted in the ACM The Web Conference (**WWW**), 2025. (409/2062=19.8%)<br>
+[[Link]](https://dl.acm.org/doi/10.1145/3696410.3714773)
 
 
 - **[Sigmetrics]** ***Combinatorial Logistic Bandits***<br>
