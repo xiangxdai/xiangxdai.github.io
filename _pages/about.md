@@ -25,7 +25,7 @@ I always welcome discussions and collaborations. Feel free to reach out via emai
 
 # News
 + [May, 2025] Our work has been selected as **Best Paper Finalists (Top 5)** at ACM SIGMETRICS 2025!
-+ [May, 2025] I am a visiting intern under Prof. [Wei Chen](https://www.microsoft.com/en-us/research/people/weic/) at Microsoft Research Asia, Beijing. 
++ [May, 2025] I am a visiting intern under Dr. [Wei Chen](https://www.microsoft.com/en-us/research/people/weic/) at Microsoft Research Asia, Beijing. 
 
 
 # Selected Awards
