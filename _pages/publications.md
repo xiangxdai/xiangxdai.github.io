@@ -22,11 +22,11 @@ author_profile: true
 # Conferences:
 - **[SIGKDD]** ***A Unified Online-Offline Framework for Co-Branding Campaign Recommendations***<br>
 **Xiangxiang Dai**, Xiaowei Sun, Jinhang Zuo, Xutong Liu, John C.S. Lui<br>
-Accepted in the ACM KDD 2025. (AR: 365/1988=18.4%)
+Accepted in the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**) 2025. (AR: 365/1988=18.4%)
 
 - **[SIGKDD]** ***Leveraging the Power of Conversations: Optimal Key Term Selection in Conversational Contextual Bandits***<br>
 Maoli Liu, Zhuohua Li, **Xiangxiang Dai**, John C.S. Lui.<br>
-Accepted in the ACM KDD 2025. (AR: 365/1988=18.4%)
+Accepted in the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**) 2025. (AR: 365/1988=18.4%)
 
 - **[ICML]** ***Offline Learning for Combinatorial Multi-armed Bandits***<br>
 Xutong Liu, **Xiangxiang Dai**, Jinhang Zuo, Siwei Wang, Carlee-Joe Wong, John C.S. Lui, Wei Chen.<br>
