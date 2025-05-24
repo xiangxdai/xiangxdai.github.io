@@ -42,7 +42,7 @@ Accepted in the International Conference on Learning Representations (**ICLR**),
 - **[WWW]** ***Towards Efficient Conversational Recommendations: Expected Value of Information Meets Bandit Learning***<br>
 Zhuohua Li, Maoli Liu, **Xiangxiang Dai**, John C.S. Lui.<br>
 Accepted in the ACM The Web Conference (**WWW**), 2025. (AR: 409/2062=19.8%)<br>
-[[Link]](https://dl.acm.org/doi/10.1145/3696410.3714773)
+[[Link]](https://dl.acm.org/doi/10.1145/3696410.3714773), [[Poster]](https://zhuohua.me/assets/WWW2025-Towards-Poster.pdf)
 
 
 - **[SIGMETRICS]** ***Combinatorial Logistic Bandits***<br>
