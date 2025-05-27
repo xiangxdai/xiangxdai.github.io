@@ -40,7 +40,7 @@ I always welcome discussions and collaborations. Feel free to reach out via emai
 + 2023, &ensp; Honour Bachelor  \
   (The highest honor for graduates in HUST on academic performance, 199/6500&asymp;3%)
 + 2022,   &ensp;   National Scholarship
-+ 2023,  &ensp; Xiaomi Special First-Class Scholarship\
-  (With an invitation to visit Xiaomi Headquarters)
++ 2023,  &ensp; Xiaomi Distinguished First-Class Scholarship\
+  (Invited to visit Xiaomi Headquarters and meet Lei Jun :-) )
 
 
