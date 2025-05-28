@@ -21,7 +21,7 @@ author_profile: true
 
 # Conferences:
 - **[SIGKDD]** ***A Unified Online-Offline Framework for Co-Branding Campaign Recommendations***<br>
-**Xiangxiang Dai**, Xiaowei Sun, Jinhang Zuo, Xutong Liu, John C.S. Lui<br>
+**Xiangxiang Dai**, Xiaowei Sun, Jinhang Zuo, Xutong Liu, John C.S. Lui.<br>
 Accepted in the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**) 2025. (AR: 365/1988=18.4%)
 
 - **[SIGKDD]** ***Leveraging the Power of Conversations: Optimal Key Term Selection in Conversational Contextual Bandits***<br>
@@ -29,13 +29,13 @@ Maoli Liu, Zhuohua Li, **Xiangxiang Dai**, John C.S. Lui.<br>
 Accepted in the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**) 2025. (AR: 365/1988=18.4%)
 
 - **[ICML]** ***Offline Learning for Combinatorial Multi-armed Bandits***<br>
-Xutong Liu, **Xiangxiang Dai**, Jinhang Zuo, Siwei Wang, Carlee-Joe Wong, John C.S. Lui, Wei Chen.<br>
+Xutong Liu, **Xiangxiang Dai**, Jinhang Zuo, Siwei Wang, Carlee-Joe Wong, John C.S. Lui, Wei Chen. <br>
 Accepted in the International Conference on Machine Learning (**ICML**), 2025. (AR: 3260/12107=26.3%).<br>
 [[arXiv]](https://arxiv.org/abs/2501.19300)
 
 - **[ICLR]** ***Demystifying Online Clustering of Bandits: Enhanced Exploration Under Stochastic and Smoothed Adversarial Contexts***<br>
 Zhuohua Li, Maoli Liu, **Xiangxiang Dai**, John C.S. Lui.<br>
-Accepted in the International Conference on Learning Representations (**ICLR**), 2025. <br>
+Accepted in the International Conference on Learning Representations (**ICLR**), 2025. (AR: 3706/11672=32.08%) <br>
 [[OpenReview]](https://openreview.net/forum?id=421D67DY3i), [[Poster]](https://zhuohua.me/assets/ICLR2025-Demystifying-Poster.pdf), [[arXiv]](https://arxiv.org/abs/2501.00891)
 
 
