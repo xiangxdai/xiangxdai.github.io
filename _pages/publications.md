@@ -8,7 +8,7 @@ author_profile: true
 
 
 ------
-(\*equal contribution, \# Corresponding Author)<be>
+(\*equal contribution, \#corresponding author)<be>
 
 # Preprints
 - [[arXiv]](https://arxiv.org/pdf/2501.01849) ***Multi-Agent Conversational Online Learning for Adaptive LLM Response Identification***<br>
