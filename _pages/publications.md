@@ -8,7 +8,7 @@ author_profile: true
 
 
 ------
-(\*equal contribution, \#corresponding author)<be>
+(\*equal contribution, †corresponding author)<be>
 
 # Preprints
 - [[arXiv]](https://arxiv.org/pdf/2501.01849) ***Multi-Agent Conversational Online Learning for Adaptive LLM Response Identification***<br>
@@ -32,7 +32,7 @@ Accepted in the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**
 [[arXiv]](https://arxiv.org/pdf/2505.21393)
 
 - **[ICML]** ***Offline Learning for Combinatorial Multi-armed Bandits***<br>
-Xutong Liu, **Xiangxiang Dai**#, Jinhang Zuo#, Siwei Wang, Carlee-Joe Wong, John C.S. Lui, Wei Chen. <br>
+Xutong Liu, **Xiangxiang Dai**†, Jinhang Zuo†, Siwei Wang, Carlee-Joe Wong, John C.S. Lui, Wei Chen. <br>
 Accepted in the International Conference on Machine Learning (**ICML**), 2025. (AR: 3260/12107=26.3%).<br>
 [[arXiv]](https://arxiv.org/pdf/2501.19300)
 
