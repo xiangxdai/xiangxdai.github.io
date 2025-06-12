@@ -25,14 +25,14 @@ I always welcome discussions and collaborations. Feel free to reach out via emai
 
 # News
 + [May, 2025] Two papers accepted by ACM **SIGKDD** 2025; also recognized as Outstanding Reviewer (Top 10%) for KDD. One paper accepted by **ICML** 2025!
-+ [May, 2025] Our work selected as [Best Paper Finalists](https://www.sigmetrics.org/sigmetrics2025/accepted_papers.html) (Top 5) at ACM **SIGMETRICS** 2025!
++ [May, 2025] Our work selected as [Best Paper Finalists](https://www.sigmetrics.org/sigmetrics2025/index.html) (Top 5) at ACM **SIGMETRICS** 2025!
 + [May, 2025] Started a visiting internship with Dr. [Wei Chen](https://www.microsoft.com/en-us/research/people/weic/) at Microsoft Research Asia, Beijing. 
 
 
 # Selected Awards
 <!--+ 2024-2027, &ensp; Huawei PhD Fellowship -->
 + 2025, &ensp; [Outstanding Reviewer](https://kdd2025.kdd.org/research-track-program-committee/) of ACM SIGKDD (Top 10%)
-+ 2025, &ensp; [Best Paper Finalists](https://www.sigmetrics.org/sigmetrics2025/accepted_papers.html) of ACM SIGMETRICS (Top 5)
++ 2025, &ensp; [Best Paper Finalists](https://www.sigmetrics.org/sigmetrics2025/index.html) of ACM SIGMETRICS (Top 5)
 + 2023-2027,  &ensp; CUHK [Provost's Strategic Allocation of Centrally-funded RPg Places](https://www.obg.cuhk.edu.hk/wp-content/uploads/2023/01/Strategic-Research-Areas-and-High-Impact-Interdisciplinary-Research.pdf) \
   (30 recipients worldwide, supporting 0.89M HK dollars for 4 years)
 + 2024, &ensp; Student Travel Award of ACM MM
