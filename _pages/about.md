@@ -29,19 +29,3 @@ I always welcome discussions and collaborations. Feel free to reach out via emai
 + [May, 2025] Started a visiting internship with Dr. [Wei Chen](https://www.microsoft.com/en-us/research/people/weic/) at Microsoft Research Asia, Beijing. 
 
 
-# Selected Awards
-<!--+ 2024-2027, &ensp; Huawei PhD Fellowship -->
-+ 2025, &ensp; [Outstanding Reviewer](https://kdd2025.kdd.org/research-track-program-committee/) of ACM SIGKDD (Top 10%)
-+ 2025, &ensp; [Best Paper Finalists](https://www.sigmetrics.org/sigmetrics2025/index.html) of ACM SIGMETRICS (Top 5)
-+ 2023-2027,  &ensp; CUHK [Provost's Strategic Allocation of Centrally-funded RPg Places](https://www.obg.cuhk.edu.hk/wp-content/uploads/2023/01/Strategic-Research-Areas-and-High-Impact-Interdisciplinary-Research.pdf) \
-  (30 recipients worldwide, supporting 0.89M HK dollars for 4 years)
-+ 2024, &ensp; Student Travel Award of ACM MM
-+ 2022,  &ensp; Pacemaker to Merit Student \
-(The highest honor in HUST, awarded to 20 students from all undergraduate grades, from National Scholarship recipients across the university, ≈0.07%)
-+ 2023, &ensp; Honour Bachelor  \
-  (The highest honor for graduates in HUST on academic performance, 199/6500&asymp;3%)
-+ 2022,   &ensp;   National Scholarship
-+ 2023,  &ensp; Xiaomi Distinguished First-Class Scholarship\
-  (Invited to visit Xiaomi Headquarters and meet Lei Jun :-) )
-
-
