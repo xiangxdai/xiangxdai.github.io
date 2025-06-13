@@ -26,6 +26,6 @@ I always welcome discussions and collaborations. Feel free to reach out via emai
 # News
 + [May, 2025] Two papers accepted by ACM **SIGKDD** 2025; also recognized as Outstanding Reviewer (Top 10%) for KDD. One paper accepted by **ICML** 2025!
 + [May, 2025] Our work selected as [Best Paper Finalists](https://www.sigmetrics.org/sigmetrics2025/index.html) (Top 5) at ACM **SIGMETRICS** 2025!
-+ [May, 2025] Started a visiting internship with Dr. [Wei Chen](https://www.microsoft.com/en-us/research/people/weic/) at Microsoft Research Asia, Beijing. 
++ [May, 2025] Started a visiting internship with Dr. [Wei Chen](https://www.microsoft.com/en-us/research/people/weic/) at Microsoft Research Asia (MSRA), Beijing. 
 
 
