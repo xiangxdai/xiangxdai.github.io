@@ -11,7 +11,7 @@ author_profile: true
 + 2025, &ensp; [Best Paper Finalists](https://www.sigmetrics.org/sigmetrics2025/index.html) of ACM SIGMETRICS (Top 5)
 + 2024, &ensp; **Student Travel Award** of ACM Multimedia
 + 2021, &ensp; **Gold Award** in MathorCup Big Data Competition\
-(*Top 1 in both undergraduate and graduate categories nationally*).
+(*Top 1 ranking in both undergraduate and graduate categories nationally*).
 + 2020, &ensp; **Meritorious Winner** in Mathematical/Interdisciplinary Contest in Modeling (MCM/ICM) (Top 7% globally).
   
 ## Fellowship and Scholarship
