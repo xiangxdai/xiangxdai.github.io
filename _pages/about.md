@@ -13,14 +13,9 @@ I am a Ph.D. candidate in [ANSR Lab](http://ansrlab.cse.cuhk.edu.hk/), supervise
 
 # Research
 
-My research centers on "*advancing machine learning for decision-making under uncertainty in AI systems*". By developing **theoretically grounded frameworks**, such as **reinforcement learning**, **online learning**, and **multi-armed bandits**, I strive to design **efficient**, **scalable**, and **trustworthy** algorithms. 
+My research centers on "**intelligent decision-making**". By developing **theoretically grounded frameworks**, such as **reinforcement learning**, **online learning**, and **multi-armed bandits**, I strive to design **efficient**, **scalable**, and **trustworthy** algorithms for optimal decision-making. 
 
 
-My work bridges theoretical rigor with practical impact, with a particular focus on **AI computing and communication applications**. The ultimate goal is to develop **intelligent agents capable of making optimal decisions** in dynamic and uncertain environments. These agents have significant applications across various domains, such as:
-- AI-empowered network optimization and edge/mobile/cloud computing architectures;
-- Adaptive recommendation engines and multimedia content delivery systems;
-- LLM/Embodied AI enhancement and scheduling through learning paradigms.
-  
 I always welcome discussions and collaborations. Feel free to reach out via email: "xiangxdai0 [at] gmail.com" (recommended) or "xxdai23 [at] cse.cuhk.edu.hk". 
 
 # News
