@@ -15,6 +15,9 @@ author_profile: true
 + 2020.09-2023.06, &ensp; Research Intern of  Prof. [Peng Yang](http://faculty.hust.edu.cn/pyang/en) and Prof. [Li Yu](http://eic.hust.edu.cn/professor/yuli/) at [Digital Media and Intelligent Networks Lab](https://hustdmin.github.io/), Wuhan, China. 
 
 # Academic Services
+## Session Chair
++ ACM SIGKDD 2025
+
 ## Journal Reviewer
 + IEEE Transactions on Mobile Computing (TMC)
 + IEEE Transactions on Knowledge and Data Engineering (TKDE)
