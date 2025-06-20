@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Research/Competition Awards
-
++ 2025, &ensp; **Student Travel Award** of ACM SIGKDD
 + 2025, &ensp; [Outstanding Reviewer](https://kdd2025.kdd.org/research-track-program-committee/) of ACM SIGKDD (Top 10%)
 + 2025, &ensp; [Best Paper Finalists](https://www.sigmetrics.org/sigmetrics2025/index.html) of ACM SIGMETRICS (Top 5)
 + 2024, &ensp; **Student Travel Award** of ACM Multimedia
