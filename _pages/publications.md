@@ -52,7 +52,7 @@ Accepted in the ACM The Web Conference (**WWW**), 2025. (AR: 409/2062=19.8%)<br>
 Xutong Liu, **Xiangxiang Dai**, Xuchuang Wang, Mohammad Hajiesmaili, John C.S. Lui.<br>
 Accepted in the ACM International Conference on Measurement and Modeling of Computer Systems (**SIGMETRICS**), 2025. (AR: 35/223 = 15.7%)<br>
 🏆**Best Paper Finalists (Top 5)**<br>
-  [[Link]](https://dl.acm.org/doi/10.1145/3726854.3727279) [[arXiv]](https://arxiv.org/pdf/2410.17075), [[Code]](https://github.com/xiangxdai/Combinatorial-Logistic-Bandit)
+  [[Link]](https://dl.acm.org/doi/10.1145/3726854.3727279) [[arXiv]](https://arxiv.org/pdf/2410.17075), [[Code]](https://github.com/xiangxdai/Combinatorial-Logistic-Bandit), [[Slides]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/ER42N3lmARJJtS6LHJP1lpQBgaXQHx_Zoa3BNO93WygQFw?e=DP0bjD)
 
 - **[ACM MM]** ***AxiomVision: Accuracy-Guaranteed Adaptive Visual Model Selection for Perspective-Aware Video Analytics***<br>
 **Xiangxiang Dai**, Zeyu Zhang, Peng Yang, Yuedong Xu, Xutong Liu, John C.S. Lui.<br>
