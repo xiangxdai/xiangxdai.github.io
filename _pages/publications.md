@@ -37,7 +37,7 @@ Accepted in the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**
 - **[ICML]** ***Offline Learning for Combinatorial Multi-armed Bandits***<br>
 Xutong Liu, **Xiangxiang Dai**#, Jinhang Zuo#, Siwei Wang, Carlee-Joe Wong, John C.S. Lui, Wei Chen. <br>
 Accepted in the International Conference on Machine Learning (**ICML**), 2025. (AR: 3260/12107=26.3%).<br>
-[[arXiv]](https://arxiv.org/pdf/2501.19300)
+[[arXiv]](https://arxiv.org/pdf/2501.19300), [[Slides]](https://mycuhk-my.sharepoint.com/personal/1155098137_link_cuhk_edu_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F1155098137%5Flink%5Fcuhk%5Fedu%5Fhk%2FDocuments%2Fpresentation%2F20250612%5F5min%5FICML%2Epdf&parent=%2Fpersonal%2F1155098137%5Flink%5Fcuhk%5Fedu%5Fhk%2FDocuments%2Fpresentation&ga=1)
 
 - **[ICLR]** ***Demystifying Online Clustering of Bandits: Enhanced Exploration Under Stochastic and Smoothed Adversarial Contexts***<br>
 Zhuohua Li, Maoli Liu, **Xiangxiang Dai**, John C.S. Lui.<br>
