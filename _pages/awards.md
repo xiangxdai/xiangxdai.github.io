@@ -23,7 +23,7 @@ author_profile: true
 + 2023, &ensp; **Honour Bachelor**  \
   (*Top academic honor for graduates in HUST on outstanding academic performance, 199/6500&asymp;3%*)
 + 2023,  &ensp; **Xiaomi Distinguished First-Class Scholarship**\
-  (*Invited to visit Xiaomi Headquarters and meet Lei Jun :-)*)
+  (*Only four students university-wide, also invited to visit Xiaomi Headquarters and meet Lei Jun :-)*)
 + 2022,  &ensp; **Pacemaker to Merit Student** \
 (*Highest honor in HUST, awarded to 20 students (≈0.07%) from National Scholarship recipients across all undergraduate grades*)
 + 2022,   &ensp;   **National Scholarship**
