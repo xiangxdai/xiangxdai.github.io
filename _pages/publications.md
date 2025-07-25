@@ -53,7 +53,7 @@ Accepted in the IEEE Transactions on Industrial Informatics (**TII**), 2022. <br
 - **[SIGKDD]** ***A Unified Online-Offline Framework for Co-Branding Campaign Recommendations***<br>
 **Xiangxiang Dai**, Xiaowei Sun, Jinhang Zuo, Xutong Liu, John C.S. Lui.<br>
 Accepted in the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**) 2025. (AR: 365/1988=18.4%)<br>
-[[arXiv]](https://arxiv.org/pdf/2505.22254), [[Code]](https://github.com/xwsun01/CoBrandRec)
+[[arXiv]](https://arxiv.org/pdf/2505.22254), [[Code]](https://github.com/xwsun01/CoBrandRec), [[Promotional Video]](https://www.youtube.com/watch?v=0-U-x15G2yA)
 
 
 - **[SIGKDD]** ***Leveraging the Power of Conversations: Optimal Key Term Selection in Conversational Contextual Bandits***<br>
