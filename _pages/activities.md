@@ -27,7 +27,8 @@ author_profile: true
 + IEEE Internet of Things Journal (IoT-J)
 
 
-## PC Member/Conference Reviewer
+## Program Committee Member/Conference Reviewer
++ AAAI Conference on Artificial Intelligence (AAAI) 2026
 + Neural Information Processing Systems (NeurIPS) 2024, 2025
 + ACM Knowledge Discovery and Data Mining (KDD) 2025 ([Outstanding Reviewer](https://kdd2025.kdd.org/research-track-program-committee/), Top 10%)
 + International Conference on Machine Learning (ICML) 2025
