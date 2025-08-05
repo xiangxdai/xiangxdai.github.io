@@ -65,7 +65,7 @@ Accepted in the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**
 Xutong Liu, **Xiangxiang Dai**, Xuchuang Wang, Mohammad Hajiesmaili, John C.S. Lui.<br>
 Accepted in the ACM International Conference on Measurement and Modeling of Computer Systems (**SIGMETRICS**), 2025. (AR: 35/223 = 15.7%)<br>
 🏆**Best Paper Finalists (Top 5)**<br>
-  [[Link]](https://dl.acm.org/doi/10.1145/3726854.3727279) [[arXiv]](https://arxiv.org/pdf/2410.17075), [[Code]](https://github.com/xiangxdai/Combinatorial-Logistic-Bandit), [[Slides]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/ER42N3lmARJJtS6LHJP1lpQBgaXQHx_Zoa3BNO93WygQFw?e=DP0bjD)
+  [[Link]](https://dl.acm.org/doi/10.1145/3726854.3727279), [[arXiv]](https://arxiv.org/pdf/2410.17075), [[Code]](https://github.com/xiangxdai/Combinatorial-Logistic-Bandit), [[Slides]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/ER42N3lmARJJtS6LHJP1lpQBgaXQHx_Zoa3BNO93WygQFw?e=DP0bjD)
 
 - **[ICML]** ***Offline Learning for Combinatorial Multi-armed Bandits***<br>
 Xutong Liu, **Xiangxiang Dai**#, Jinhang Zuo#, Siwei Wang, Carlee-Joe Wong, John C.S. Lui, Wei Chen. <br>
