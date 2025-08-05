@@ -53,13 +53,13 @@ Accepted in the IEEE Transactions on Industrial Informatics (**TII**), 2022. <br
 - **[SIGKDD]** ***A Unified Online-Offline Framework for Co-Branding Campaign Recommendations***<br>
 **Xiangxiang Dai**, Xiaowei Sun, Jinhang Zuo, Xutong Liu, John C.S. Lui.<br>
 Accepted in the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**) 2025. (AR: 365/1988=18.4%)<br>
-[[arXiv]](https://arxiv.org/pdf/2505.22254), [[Code]](https://github.com/xwsun01/CoBrandRec), [[Promotional Video]](https://www.youtube.com/watch?v=0-U-x15G2yA)
+[[Link]](https://dl.acm.org/doi/10.1145/3711896.3736824), [[arXiv]](https://arxiv.org/pdf/2505.22254), [[Code]](https://github.com/xwsun01/CoBrandRec), [[Promotional Video]](https://www.youtube.com/watch?v=0-U-x15G2yA), [[Slides]](https://xiangxdai.github.io/files/Slides4KDD25.pdf)<br>
 
 
 - **[SIGKDD]** ***Leveraging the Power of Conversations: Optimal Key Term Selection in Conversational Contextual Bandits***<br>
 Maoli Liu, Zhuohua Li, **Xiangxiang Dai**, John C.S. Lui.<br>
 Accepted in the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**) 2025. (AR: 365/1988=18.4%)<br>
-[[arXiv]](https://arxiv.org/pdf/2505.21393)
+[[Link]](https://dl.acm.org/doi/10.1145/3711896.3737025), [[arXiv]](https://arxiv.org/pdf/2505.21393)
 
 - **[SIGMETRICS]** ***Combinatorial Logistic Bandits***<br>
 Xutong Liu, **Xiangxiang Dai**, Xuchuang Wang, Mohammad Hajiesmaili, John C.S. Lui.<br>
