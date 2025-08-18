@@ -30,7 +30,7 @@ author_profile: true
 ## Program Committee Member/Conference Reviewer
 + AAAI Conference on Artificial Intelligence (AAAI) 2026
 + Neural Information Processing Systems (NeurIPS) 2024, 2025
-+ ACM Knowledge Discovery and Data Mining (KDD) 2025 ([Outstanding Reviewer](https://kdd2025.kdd.org/research-track-program-committee/), Top 10%)
++ ACM Knowledge Discovery and Data Mining (KDD) 2025, 2026 ([Outstanding Reviewer](https://kdd2025.kdd.org/research-track-program-committee/), Top 10%)
 + International Conference on Machine Learning (ICML) 2025
 + International Conference on Artificial Intelligence and Statistics (AISTATS) 2025
 + The Web Conference (WWW) 2025
