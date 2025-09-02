@@ -9,8 +9,8 @@ author_profile: true
 
 ------
 # Internships and Research Experiences
-+ 2025.05-Present, &ensp; Resaerch Intern at Microsoft Research Asia, Beijing, China; Leader: Dr. [Wei Chen](https://www.microsoft.com/en-us/research/people/weic/) (ACM/IEEE Fellow).
-+ 2024.05-2024.08, &ensp; Resaerch Intern at Huawei 2012 Lab, Hangzhou, China; Leader: Prof. [Haibo Chen](https://ipads.se.sjtu.edu.cn/pub/members/haibo_chen) (ACM/IEEE Fellow).
++ 2025.05-Present, &ensp; Research Intern at Microsoft Research Asia, Beijing, China; Leader: Dr. [Wei Chen](https://www.microsoft.com/en-us/research/people/weic/) (ACM/IEEE Fellow) and Dr. [Siwei Wang](https://www.microsoft.com/en-us/research/people/siweiwang/).
++ 2024.05-2024.08, &ensp; Research Intern at Huawei 2012 Lab, Hangzhou, China; Leader: Prof. [Haibo Chen](https://ipads.se.sjtu.edu.cn/pub/members/haibo_chen) (ACM/IEEE Fellow).
 + 2023.06-2023.08, &ensp; Research Intern of  Prof. [Chuan Wu](https://i.cs.hku.hk/~cwu/index.html) (IEEE Fellow) at [The University of Hong Kong](https://www.hku.hk/), Hong Kong, China. 
 + 2020.09-2023.06, &ensp; Research Intern of  Prof. [Peng Yang](http://faculty.hust.edu.cn/pyang/en) and Prof. [Li Yu](http://eic.hust.edu.cn/professor/yuli/) at [Digital Media and Intelligent Networks Lab](https://hustdmin.github.io/), Wuhan, China. 
 
