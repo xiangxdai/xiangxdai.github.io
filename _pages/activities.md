@@ -34,7 +34,7 @@ author_profile: true
 + International Conference on Machine Learning (ICML) 2025
 + International Conference on Artificial Intelligence and Statistics (AISTATS) 2025, 2026
 + The Web Conference (WWW) 2025
-+ International Conference on Learning Representations (ICLR) 2025
++ International Conference on Learning Representations (ICLR) 2025, 2026
 + IEEE International Conference on Multimedia & Expo (ICME) 2025 
 
 
