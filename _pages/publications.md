@@ -11,6 +11,9 @@ author_profile: true
 (\*equal contribution, #corresponding author)<be>
 
 # Preprints
+- [[arXiv]](https://arxiv.org/pdf/2509.19781) ***Faster, Smaller, and Smarter: Task-Aware Expert Merging for Online MoE Inference***<br>
+Ziyi Han, Xutong Liu, Ruiting Zhou, **Xiangxiang Dai**, John C.S. Lui.<br>
+
 - [[arXiv]](https://arxiv.org/pdf/2506.17670) ***Online Multi-LLM Selection via Contextual Bandits under Unstructured Context Evolution***<br>
 Manhin Poon, **Xiangxiang Dai**, Xutong Liu, FangKong, John C.S. Lui, Jinhang Zuo.<br>
 
