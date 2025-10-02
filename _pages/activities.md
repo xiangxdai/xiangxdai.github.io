@@ -33,7 +33,7 @@ author_profile: true
 + ACM Knowledge Discovery and Data Mining (KDD) 2025, 2026 ([Outstanding Reviewer](https://kdd2025.kdd.org/research-track-program-committee/), Top 10%)
 + International Conference on Machine Learning (ICML) 2025
 + International Conference on Artificial Intelligence and Statistics (AISTATS) 2025, 2026
-+ The Web Conference (WWW) 2025
++ The Web Conference (WWW) 2025, 2026
 + International Conference on Learning Representations (ICLR) 2025, 2026
 + IEEE International Conference on Multimedia & Expo (ICME) 2025 
 
@@ -48,6 +48,7 @@ Sharing at School of Precision Instrument and Opto-Electronies Engineering, Tian
    Sharing at Huawei Basic Software Innovation Lab. 2024.03
 
 # Teaching Assistantships
++ *CSCI2040: Introduction to Python*, CUHK, Fall 2025
 + *ENGG1110: Problem Solving By Programming*, CUHK, Spring 2025
 + *CSCI2040: Introduction to Python*, CUHK, Fall 2024
 + *CSCI2040: Introduction to Python*, CUHK, Spring 2024
