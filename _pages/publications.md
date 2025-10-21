@@ -8,7 +8,8 @@ author_profile: true
 
 
 ------
-(\*equal contribution, #corresponding author)<be>
+(*equal contribution, #corresponding author, listed in chronological order)<br>
+
 
 # Preprints
 - [[arXiv]](https://arxiv.org/pdf/2509.19781) ***Faster, Smaller, and Smarter: Task-Aware Expert Merging for Online MoE Inference***<br>
@@ -53,6 +54,10 @@ Accepted in the IEEE Transactions on Industrial Informatics (**TII**), 2022. <br
 [[Link]](https://ieeexplore.ieee.org/document/9745772)<br>
 
 # Conferences:
+- **[ICDE]** ***Trading Vector Data in Vector Databases***<br>
+Jin Cheng, **Xiangxiang Dai**, Ning Ning Ding, John C.S. Lui, Jian Wei Huang.<br>
+Accepted in the IEEE International Conference on Data Engineering (**ICDE**) 2026.
+
 - **[SIGKDD]** ***A Unified Online-Offline Framework for Co-Branding Campaign Recommendations***<br>
 **Xiangxiang Dai**, Xiaowei Sun, Jinhang Zuo, Xutong Liu, John C.S. Lui.<br>
 Accepted in the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**) 2025. (AR: 365/1988=18.4%)<br>
