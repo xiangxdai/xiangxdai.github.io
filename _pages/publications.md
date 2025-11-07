@@ -12,6 +12,9 @@ author_profile: true
 
 
 # Preprints
+- [[arXiv]](https://arxiv.org/pdf/2510.12266) ***HiLoRA: Adaptive Hierarchical LoRA Routing for Training-Free Domain Generalization***<br>
+Ziyi Han, Huanyu Wang, Zeyu Zhang, **Xiangxiang Dai**, Xutong Liu, John C.S. Lui.<br>
+
 - [[arXiv]](https://arxiv.org/pdf/2509.19781) ***Faster, Smaller, and Smarter: Task-Aware Expert Merging for Online MoE Inference***<br>
 Ziyi Han, Xutong Liu, Ruiting Zhou, **Xiangxiang Dai**, John C.S. Lui.<br>
 
