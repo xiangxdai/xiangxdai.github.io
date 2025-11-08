@@ -57,7 +57,7 @@ Accepted in the Annual AAAI Conference on Artificial Intelligence (**AAAI**), 20
 [[arXiv]](https://arxiv.org/pdf/2501.01849), [[Code]](https://github.com/TarferSoul/MACO)
 
 - **[AAAI]** ***Online Multi-LLM Selection via Contextual Bandits under Unstructured Context Evolution***<br>
-Manhin Poon, **Xiangxiang Dai**, Xutong Liu, FangKong, John C.S. Lui, Jinhang Zuo.<br>
+Manhin Poon, **Xiangxiang Dai**, Xutong Liu, Fang Kong, John C.S. Lui, Jinhang Zuo.<br>
 Accepted in the Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2026.<br>
 [[arXiv]](https://arxiv.org/pdf/2506.17670), [[Code]](https://github.com/EntroShape/Online_LLM_Selection)
 
