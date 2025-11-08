@@ -18,12 +18,6 @@ Ziyi Han, Huanyu Wang, Zeyu Zhang, **Xiangxiang Dai**, Xutong Liu, John C.S. Lui
 - [[arXiv]](https://arxiv.org/pdf/2509.19781) ***Faster, Smaller, and Smarter: Task-Aware Expert Merging for Online MoE Inference***<br>
 Ziyi Han, Xutong Liu, Ruiting Zhou, **Xiangxiang Dai**, John C.S. Lui.<br>
 
-- [[arXiv]](https://arxiv.org/pdf/2506.17670) ***Online Multi-LLM Selection via Contextual Bandits under Unstructured Context Evolution***<br>
-Manhin Poon, **Xiangxiang Dai**, Xutong Liu, FangKong, John C.S. Lui, Jinhang Zuo.<br>
-
-- [[arXiv]](https://arxiv.org/pdf/2501.01849) ***Multi-Agent Conversational Online Learning for Adaptive LLM Response Identification***<br>
-**Xiangxiang Dai**, Yuejin Xie, Maoli Liu, Xuchuang Wang, Zhuohua Li, Huanyu Wang, John C.S. Lui.<br>
-
 
 - [[arXiv]](https://arxiv.org/pdf/2405.16587) ***Cost-Effective Online Multi-LLM Selection with Versatile Reward Models***<br>
 **Xiangxiang Dai**, Jin Li, Xutong Liu, Anqi Yu, John C.S. Lui.<br>
@@ -57,6 +51,17 @@ Accepted in the IEEE Transactions on Industrial Informatics (**TII**), 2022. <br
 [[Link]](https://ieeexplore.ieee.org/document/9745772)<br>
 
 # Conferences:
+- **[AAAI]** ***Multi-Agent Conversational Online Learning for Adaptive LLM Response Identification***<br>
+**Xiangxiang Dai**, Yuejin Xie, Maoli Liu, Xuchuang Wang, Zhuohua Li, Huanyu Wang, John C.S. Lui.<br>
+Accepted in the Annual AAAI Conference on Artificial Intelligence (AAAI), 2026.<br>
+[[arXiv]](https://arxiv.org/pdf/2501.01849), [[Code]](https://github.com/TarferSoul/MACO)
+
+- **[AAAI]** ***Online Multi-LLM Selection via Contextual Bandits under Unstructured Context Evolution***<br>
+Manhin Poon, **Xiangxiang Dai**, Xutong Liu, FangKong, John C.S. Lui, Jinhang Zuo.<br>
+Accepted in the Annual AAAI Conference on Artificial Intelligence (AAAI), 2026.<br>
+[[arXiv]](https://arxiv.org/pdf/2506.17670), [[Code]](https://github.com/EntroShape/Online_LLM_Selection)
+
+
 - **[ICDE]** ***Trading Vector Data in Vector Databases***<br>
 Jin Cheng, **Xiangxiang Dai**, Ning Ning Ding, John C.S. Lui, Jian Wei Huang.<br>
 Accepted in the IEEE International Conference on Data Engineering (**ICDE**) 2026.
