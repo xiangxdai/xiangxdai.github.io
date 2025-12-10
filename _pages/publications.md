@@ -15,13 +15,6 @@ author_profile: true
 - [[arXiv]](https://arxiv.org/pdf/2510.12266) ***HiLoRA: Adaptive Hierarchical LoRA Routing for Training-Free Domain Generalization***<br>
 Ziyi Han, Huanyu Wang, Zeyu Zhang, **Xiangxiang Dai**, Xutong Liu, John C.S. Lui.<br>
 
-- [[arXiv]](https://arxiv.org/pdf/2509.19781) ***Faster, Smaller, and Smarter: Task-Aware Expert Merging for Online MoE Inference***<br>
-Ziyi Han, Xutong Liu, Ruiting Zhou, **Xiangxiang Dai**, John C.S. Lui.<br>
-
-
-- [[arXiv]](https://arxiv.org/pdf/2405.16587) ***Cost-Effective Online Multi-LLM Selection with Versatile Reward Models***<br>
-**Xiangxiang Dai**, Jin Li, Xutong Liu, Anqi Yu, John C.S. Lui.<br>
-
 # Journals:
 - **[TON]** ***Variance-Aware Bandit Framework for Dynamic Probabilistic Maximum Coverage Problem with Triggered or Self-Reliant Arms***<br>
 **Xiangxiang Dai**, Xutong Liu, Jinhang Zuo, Hong Xie, Carlee Joe-Wong, John C.S. Lui.<br>
@@ -51,6 +44,25 @@ Accepted in the IEEE Transactions on Industrial Informatics (**TII**), 2022. <br
 [[Link]](https://ieeexplore.ieee.org/document/9745772)<br>
 
 # Conferences:
+- **[INFOCOM]** ***Constraint-Aware Combinatorial Bandits: Theoretical Foundations and Network Applications***<br>
+    **Xiangxiang Dai**, Jin Li, Xutong Liu, Anqi Yu, John C.S. Lui.<br>
+    Accepted in the IEEE International Conference on Computer Communications (**INFOCOM**), 2026.<br>
+    [[arXiv]](https://arxiv.org/pdf/2405.16587)
+
+- **[INFOCOM]** ***Semantic Caching for Low-Cost LLM Serving: From Offline Learning to Online Adaptation***<br>
+    Xutong Liu, Baran Atalar, **Xiangxiang Dai**, Jinhang Zuo, Siwei Wang, John C.S. Lui, Wei Chen, Carlee Joe-Wong.<br>
+    Accepted in the IEEE International Conference on Computer Communications (**INFOCOM**), 2026.<br>
+    [[arXiv]](https://arxiv.org/pdf/2508.07675)
+
+- **[INFOCOM]** ***BEVCooper: Accurate and Communication-Efficient Bird’s-Eye-View Perception in Vehicular Networks***<br>
+    Jiawei Hou, Peng Yang, **Xiangxiang Dai**, Mingliu Liu, Conghao Zhou.<br>
+    Accepted in the IEEE International Conference on Computer Communications (**INFOCOM**), 2026.<br>
+    
+- **[INFOCOM]** ***Faster, Smaller, and Smarter: Task-Aware Expert Merging for Online MoE Inference***<br>
+    Ziyi Han, Xutong Liu, Ruiting Zhou, **Xiangxiang Dai**, John C.S. Lui.<br>
+    Accepted in the IEEE International Conference on Computer Communications (**INFOCOM**), 2026.<br>
+    [[arXiv]](https://arxiv.org/pdf/2509.19781)
+  
 - **[AAAI]** ***Multi-Agent Conversational Online Learning for Adaptive LLM Response Identification***<br>
 **Xiangxiang Dai**, Yuejin Xie, Maoli Liu, Xuchuang Wang, Zhuohua Li, Huanyu Wang, John C.S. Lui.<br>
 Accepted in the Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2026.<br>
@@ -64,7 +76,8 @@ Accepted in the Annual AAAI Conference on Artificial Intelligence (**AAAI**), 20
 
 - **[ICDE]** ***Trading Vector Data in Vector Databases***<br>
 Jin Cheng, **Xiangxiang Dai**, Ning Ning Ding, John C.S. Lui, Jian Wei Huang.<br>
-Accepted in the IEEE International Conference on Data Engineering (**ICDE**) 2026.
+Accepted in the IEEE International Conference on Data Engineering (**ICDE**) 2026.<br>
+[[arXiv]](https://arxiv.org/pdf/2511.07139)
 
 - **[SIGKDD]** ***A Unified Online-Offline Framework for Co-Branding Campaign Recommendations***<br>
 **Xiangxiang Dai**, Xiaowei Sun, Jinhang Zuo, Xutong Liu, John C.S. Lui.<br>
