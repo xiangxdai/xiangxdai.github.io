@@ -15,34 +15,6 @@ author_profile: true
 - [[arXiv]](https://arxiv.org/pdf/2510.12266) ***HiLoRA: Adaptive Hierarchical LoRA Routing for Training-Free Domain Generalization***<br>
 Ziyi Han, Huanyu Wang, Zeyu Zhang, **Xiangxiang Dai**, Xutong Liu, John C.S. Lui.<br>
 
-# Journals:
-- **[TON]** ***Variance-Aware Bandit Framework for Dynamic Probabilistic Maximum Coverage Problem with Triggered or Self-Reliant Arms***<br>
-**Xiangxiang Dai**, Xutong Liu, Jinhang Zuo, Hong Xie, Carlee Joe-Wong, John C.S. Lui.<br>
-Accepted in the IEEE/ACM Transactions on Networking (**TON**), 2025.  <br>
- [[Link]](https://ieeexplore.ieee.org/document/10821481)
-
-- **[T-ITS]** ***Enhancing Cooperative LiDAR-based Perception Accuracy in Vehicular Edge Networks***<br>
-Jiawei Hou, Peng Yang, **Xiangxiang Dai**, Tian Qin, Feng Lyu.<br>
-Accepted in the IEEE Transactions on Intelligent Transportation Systems (**T-ITS**), 2025.  <br>
- [[Link]](https://ieeexplore.ieee.org/document/10901958)
-
-
-- **[TKDE]** ***Conversational Recommendation with Online Learning and Clustering on Misspecified Users***<br>
-**Xiangxiang Dai**\*, Zhiyong Wang\*, Jize Xie, Xutong Liu, John C.S. Lui.<br>
- Accepted in the IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2024. <br>
- [[Link]](https://ieeexplore.ieee.org/document/10586787)
-
-
-- **[TKDE]** ***Online Learning and Detecting Corrupted Users for Conversational Recommendation Systems***<br>
-**Xiangxiang Dai**\*, Zhiyong Wang\*, Jize Xie, Tong Yu, and John C.S. Lui.<br>
-Accepted in the IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2024. <br>
- [[Link]](https://ieeexplore.ieee.org/document/10643701)
-
-- **[TII]** ***RESPIRE: Reducing Spatial–Temporal Redundancy for Efficient Edge-Based Industrial Video Analytics***<br>
-**Xiangxiang Dai**, Peng Yang, Xinyu Zhang, Zhewei Dai, and Li Yu.<br>
-Accepted in the IEEE Transactions on Industrial Informatics (**TII**), 2022. <br>
-[[Link]](https://ieeexplore.ieee.org/document/9745772)<br>
-
 # Conferences:
 - **[INFOCOM]** ***Constraint-Aware Combinatorial Bandits: Theoretical Foundations and Network Applications***<br>
     **Xiangxiang Dai**, Jin Li, Xutong Liu, Anqi Yu, John C.S. Lui.<br>
@@ -125,6 +97,37 @@ Accepted in the IEEE/ACM International Symposium on Quality of Service (**IWQoS*
 [[Link]](https://ieeexplore.ieee.org/document/10682895),  [[PDF]](https://xiangxdai.github.io/files/IWQoS24.pdf), [[Slides]](https://xiangxdai.github.io/files/Slides4IWQoS24.pdf)<br>
 
 
+# Journals:
+- **[TON]** ***Variance-Aware Bandit Framework for Dynamic Probabilistic Maximum Coverage Problem with Triggered or Self-Reliant Arms***<br>
+**Xiangxiang Dai**, Xutong Liu, Jinhang Zuo, Hong Xie, Carlee Joe-Wong, John C.S. Lui.<br>
+Accepted in the IEEE/ACM Transactions on Networking (**TON**), 2025.  <br>
+ [[Link]](https://ieeexplore.ieee.org/document/10821481)
+
+- **[TCCN]** ***Networked Edge Resource Orchestration for Mobile AI-Generated Content Services***<br>
+  Yuxin Liang, Peng Yang, **Xiangxiang Dai**, Yuanyuan He, Feng Lyu.<br>
+  Published in the IEEE Transactions on Cognitive Communications and Networking (**TCCN**), 2025.  <br>
+
+- **[T-ITS]** ***Enhancing Cooperative LiDAR-based Perception Accuracy in Vehicular Edge Networks***<br>
+Jiawei Hou, Peng Yang, **Xiangxiang Dai**, Tian Qin, Feng Lyu.<br>
+Accepted in the IEEE Transactions on Intelligent Transportation Systems (**T-ITS**), 2025.  <br>
+ [[Link]](https://ieeexplore.ieee.org/document/10901958)
+
+
+- **[TKDE]** ***Conversational Recommendation with Online Learning and Clustering on Misspecified Users***<br>
+**Xiangxiang Dai**\*, Zhiyong Wang\*, Jize Xie, Xutong Liu, John C.S. Lui.<br>
+ Accepted in the IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2024. <br>
+ [[Link]](https://ieeexplore.ieee.org/document/10586787)
+
+
+- **[TKDE]** ***Online Learning and Detecting Corrupted Users for Conversational Recommendation Systems***<br>
+**Xiangxiang Dai**\*, Zhiyong Wang\*, Jize Xie, Tong Yu, and John C.S. Lui.<br>
+Accepted in the IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2024. <br>
+ [[Link]](https://ieeexplore.ieee.org/document/10643701)
+
+- **[TII]** ***RESPIRE: Reducing Spatial–Temporal Redundancy for Efficient Edge-Based Industrial Video Analytics***<br>
+**Xiangxiang Dai**, Peng Yang, Xinyu Zhang, Zhewei Dai, and Li Yu.<br>
+Accepted in the IEEE Transactions on Industrial Informatics (**TII**), 2022. <br>
+[[Link]](https://ieeexplore.ieee.org/document/9745772)<br>
 
 
 
