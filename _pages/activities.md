@@ -36,13 +36,14 @@ author_profile: true
 + International Conference on Artificial Intelligence and Statistics (AISTATS) 2025, 2026
 + The Web Conference (WWW) 2025, 2026
 + International Conference on Learning Representations (ICLR) 2025, 2026
-+ IEEE International Conference on Multimedia & Expo (ICME) 2025 
++ IEEE International Conference on Multimedia & Expo (ICME) 2025, 2026
++ IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2026
 
 
 # Talks
 + ***Unlocking Research Potential with LLMs: A Comprehensive Guide from Reading to Innovation*** \
-Sharing at Optics Joint Academic Annual Conference and Academic Society Council. 2025.03 \
-Sharing at School of Precision Instrument and Opto-Electronies Engineering, Tianjin University. 2025.03
+Sharing at the Optics Joint Academic Annual Conference and Academic Society Council. 2025.03 \
+Sharing at the School of Precision Instrument and Opto-Electronics Engineering, Tianjin University. 2025.03
 + ***Quantifying the Merits of Network-Assist Online Learning in Optimizing Network Protocols*** \
    Sharing at The Hong Kong University of Science and Technology (Guangzhou). 2024.06
 + ***Enhanced Economical Combinatorial Adaptation Framework for LLM*** \
