@@ -22,7 +22,7 @@ Ziyi Han, Huanyu Wang, Zeyu Zhang, **Xiangxiang Dai**, Xutong Liu, John C.S. Lui
     [[arXiv]](https://arxiv.org/pdf/2405.16587)
 
 - **[INFOCOM]** ***Semantic Caching for Low-Cost LLM Serving: From Offline Learning to Online Adaptation***<br>
-    Xutong Liu, Baran Atalar, **Xiangxiang Dai**, Jinhang Zuo, Siwei Wang, John C.S. Lui, Wei Chen, Carlee Joe-Wong.<br>
+    Xutong Liu, Baran Atalar, **Xiangxiang Dai**#, Jinhang Zuo, Siwei Wang, John C.S. Lui, Wei Chen, Carlee Joe-Wong.<br>
     Accepted in the IEEE International Conference on Computer Communications (**INFOCOM**), 2026.<br>
     [[arXiv]](https://arxiv.org/pdf/2508.07675)
 
@@ -69,7 +69,7 @@ Accepted in the ACM International Conference on Measurement and Modeling of Comp
   [[Link]](https://dl.acm.org/doi/10.1145/3726854.3727279), [[arXiv]](https://arxiv.org/pdf/2410.17075), [[Code]](https://github.com/xiangxdai/Combinatorial-Logistic-Bandit), [[Slides]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/ER42N3lmARJJtS6LHJP1lpQBgaXQHx_Zoa3BNO93WygQFw?e=DP0bjD)
 
 - **[ICML]** ***Offline Learning for Combinatorial Multi-armed Bandits***<br>
-Xutong Liu, **Xiangxiang Dai**#, Jinhang Zuo#, Siwei Wang, Carlee-Joe Wong, John C.S. Lui, Wei Chen. <br>
+Xutong Liu, **Xiangxiang Dai**#, Jinhang Zuo#, Siwei Wang, Carlee-Joe Wong, John C.S. Lui, Wei Chen#. <br>
 Accepted in the International Conference on Machine Learning (**ICML**), 2025. (AR: 3260/12107=26.3%).<br>
 [[Link]](https://icml.cc/virtual/2025/poster/46315), [[arXiv]](https://arxiv.org/pdf/2501.19300), [[Slides]](https://mycuhk-my.sharepoint.com/personal/1155098137_link_cuhk_edu_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F1155098137%5Flink%5Fcuhk%5Fedu%5Fhk%2FDocuments%2Fpresentation%2F20250612%5F5min%5FICML%2Epdf&parent=%2Fpersonal%2F1155098137%5Flink%5Fcuhk%5Fedu%5Fhk%2FDocuments%2Fpresentation&ga=1)
 
