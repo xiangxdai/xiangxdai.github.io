@@ -35,7 +35,7 @@ Ziyi Han, Huanyu Wang, Zeyu Zhang, **Xiangxiang Dai**, Xutong Liu, John C.S. Lui
     Accepted in the IEEE International Conference on Computer Communications (**INFOCOM**), 2026.<br>
     [[arXiv]](https://arxiv.org/pdf/2509.19781)
   
-- **[AAAI]** ***Multi-Agent Conversational Online Learning for Adaptive LLM Response Identification***<br>
+- **[AAAI]** ***A Multi-Agent Conversational Bandit Approach to Online Evaluation and Selection of User-Aligned LLM Responses***<br>
 **Xiangxiang Dai**, Yuejin Xie, Maoli Liu, Xuchuang Wang, Zhuohua Li, Huanyu Wang, John C.S. Lui.<br>
 Accepted in the Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2026.<br>
 [[arXiv]](https://arxiv.org/pdf/2501.01849), [[Code]](https://github.com/TarferSoul/MACO)
