@@ -16,7 +16,7 @@ author_profile: true
 Ziyi Han, Huanyu Wang, Zeyu Zhang, **Xiangxiang Dai**, Xutong Liu, John C.S. Lui.<br>
 
 # Conferences:
-- **[WWW]** ***Towards Efficient Conversational Recommendations: Expected Value of Information Meets Bandit Learning***<br>
+- **[WWW]** ***BANCO: Drift-Aware Batched Bandits for Adaptive Proximity Graph Pruning***<br>
 Jin Cheng, **Xiangxiang Dai**, Ning Ning Ding, John C.S. Lui, Jian Wei Huang.<br>
 Accepted in the ACM The Web Conference (**WWW**), 2026. <br>
 
