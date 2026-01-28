@@ -42,7 +42,7 @@ Accepted in the ACM The Web Conference (**WWW**), 2026. <br>
 - **[AAAI]** ***A Multi-Agent Conversational Bandit Approach to Online Evaluation and Selection of User-Aligned LLM Responses***<br>
 **Xiangxiang Dai**, Yuejin Xie, Maoli Liu, Xuchuang Wang, Zhuohua Li, Huanyu Wang, John C.S. Lui.<br>
 Accepted in the Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2026.<br>
-[[arXiv]](https://arxiv.org/pdf/2501.01849), [[Code]](https://github.com/TarferSoul/MACO)
+[[arXiv]](https://arxiv.org/pdf/2501.01849), [[Code]](https://github.com/TarferSoul/MACO), [[Poster]](https://xiangxdai.github.io/files/Poster4AAAI26.pdf)
 
 - **[AAAI]** ***Online Multi-LLM Selection via Contextual Bandits under Unstructured Context Evolution***<br>
 Manhin Poon, **Xiangxiang Dai**, Xutong Liu, Fang Kong, John C.S. Lui, Jinhang Zuo.<br>
