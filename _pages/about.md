@@ -22,7 +22,7 @@ I always welcome discussions and collaborations. Feel free to reach out via emai
 + [02, 2026] One paper accepted by AIJ!
 + [01, 2026] One paper accepted by IEEE/ACM TON. One paper accepted by WWW 2026!
 + [12, 2025] Four papers accepted by INFOCOM 2026!
-+ [12, 2025] Granted by NSFC Basic Research Scheme for Ph.D. Student!
++ [12, 2025] Granted by **NSFC Basic Research Scheme for Ph.D. Student**!
 + [11, 2025] Two papers accepted by AAAI 2026. One paper accepted by ICDE 2026!
 + [06, 2025] Invited as a **Session Chair** for ACM SIGKDD 2025!
 + [05, 2025] Two papers accepted by ACM SIGKDD 2025; also recognized as Outstanding Reviewer (Top 10%) for KDD. One paper accepted by ICML 2025!
