@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Research/Competition Awards
-+ 2025, &ensp; **Scholarship** of AAAI
++ 2026, &ensp; **Scholarship** of AAAI
 + 2025, &ensp; **Student Travel Award** of ACM SIGKDD
 + 2025, &ensp; [Outstanding Reviewer](https://kdd2025.kdd.org/research-track-program-committee/) of ACM SIGKDD (Top 10%)
 + 2025, &ensp; [Best Paper Finalists](https://www.sigmetrics.org/sigmetrics2025/index.html) of ACM SIGMETRICS (Top 5)
@@ -28,6 +28,7 @@ author_profile: true
 + 2022,  &ensp; **Pacemaker to Merit Student** \
 (*Highest honor in HUST, awarded to 20 students (≈0.07%) from National Scholarship recipients across all undergraduate grades*)
 + 2022,   &ensp;   **National Scholarship**
+
 
 
 
