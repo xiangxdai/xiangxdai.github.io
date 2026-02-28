@@ -13,7 +13,15 @@ I am a Ph.D. candidate in [ANSR Lab](http://ansrlab.cse.cuhk.edu.hk/), supervise
 
 # Research
 
-My research centers on "**intelligent decision-making**". By developing *theoretically grounded frameworks*, such as **reinforcement learning**, **online learning**, and **multi-armed bandits**, I strive to design *efficient*, *scalable*, and *trustworthy* algorithms for optimal decision-making. 
+My research resides at the intersection of **Agentic Intelligence** and **Decisional Reinforcement Learning**. I focus on building self-evolving LLM systems capable of **autonomous reasoning** and optimal decision-making in open-ended environments. My core expertise lies in bridging **Online Optimization (Bandits)** with foundation model alignment, specifically developing **inference-time scaling** and alignment strategies that bypass the need for expensive global retraining. My goal is to develop AI agents that are not only logically robust but also system-efficient and deeply aligned with complex human intent.
+
+My work focuses on three primary application thrusts:
+
+- **Adaptive Reasoning & Inference-time Alignment**: Developing **sample-efficient online RL** (e.g., Bandit-based path selection) to capture real-time feedback, enabling LLMs to self-correct reasoning traces and align with user preferences during inference.
+
+- **Autonomous Agent Orchestration**: Designing intelligent **decisional routing** and collaborative strategies (e.g., MoE expert merging, semantic-aware orchestration) to enhance the multi-step problem-solving capabilities of large-scale agent networks.
+
+- **Efficient Scaling Laws for Agents**: Leveraging **learning-based resource orchestration** to optimize the trade-off between reasoning compute (Inference-time Compute) and performance, ensuring reliable deployment of agentic workflows in resource-constrained environments.
 
 
 I always welcome discussions and collaborations. Feel free to reach out via email: "xiangxdai0 [at] gmail.com" (recommended) or "xxdai23 [at] cse.cuhk.edu.hk". 
