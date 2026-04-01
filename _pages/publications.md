@@ -104,14 +104,18 @@ Accepted in the IEEE/ACM International Symposium on Quality of Service (**IWQoS*
 - **[AIJ]** ***Exploring Multi-Layered Networks through Random Walks: Bridging Offline Optimization and Online Learning***<br>
   **Xiangxiang Dai**, Xutong Liu, Jinhang Zuo, Xiaowei Chen, Wei Chen, John C.S. Lui.<br>
   Accepted by Elsevier Artificial Intelligence Journal (**AIJ**), 2026.<br>
+[[Link]](https://www.sciencedirect.com/science/article/pii/S0004370226000263)
 
 - **[TON]** ***Combinatorial Logistic Online Learning and Its Applications in Nonlinear Networked Systems***<br>
 Xutong Liu, **Xiangxiang Dai**#, Xuchuang Wang#, Carlee Joe-Wong, Mohammad Hajiesmaili, John C.S. Lui.<br>
-Aceecpted by IEEE/ACM Transactions on Networking (**TON**), 2026.<br>
+Accepted by IEEE/ACM Transactions on Networking (**TON**), 2026.<br>
+[[Link]](https://ieeexplore.ieee.org/document/11391544)
 
 - **[TCCN]** ***Networked Edge Resource Orchestration for Mobile AI-Generated Content Services***<br>
   Yuxin Liang, Peng Yang, **Xiangxiang Dai**, Yuanyuan He, Feng Lyu.<br>
   Published in the IEEE Transactions on Cognitive Communications and Networking (**TCCN**), 2026.  <br>
+ [[Link]](https://ieeexplore.ieee.org/document/11300262)
+  
   
 - **[TON]** ***Variance-Aware Bandit Framework for Dynamic Probabilistic Maximum Coverage Problem with Triggered or Self-Reliant Arms***<br>
 **Xiangxiang Dai**, Xutong Liu, Jinhang Zuo, Hong Xie, Carlee Joe-Wong, John C.S. Lui.<br>
