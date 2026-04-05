@@ -33,6 +33,7 @@ Accepted in the ACM The Web Conference (**WWW**), 2026. <br>
 - **[INFOCOM]** ***BEVCooper: Accurate and Communication-Efficient Bird’s-Eye-View Perception in Vehicular Networks***<br>
  Jiawei Hou, Peng Yang, **Xiangxiang Dai**, Mingliu Liu, Conghao Zhou.<br>
  Accepted in the IEEE International Conference on Computer Communications (**INFOCOM**), 2026.<br>
+[[arXiv]](https://arxiv.org/pdf/2512.19082)
     
 - **[INFOCOM]** ***Faster, Smaller, and Smarter: Task-Aware Expert Merging for Online MoE Inference***<br>
  Ziyi Han, Xutong Liu, Ruiting Zhou, **Xiangxiang Dai**, John C.S. Lui.<br>
