@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in [ANSR Lab](http://ansrlab.cse.cuhk.edu.hk/), supervised by Chair Professor [John C.S. Lui](https://www.cse.cuhk.edu.hk/~cslui/)  (ACM/IEEE Fellow, Fellow of HKAES) at the [Department of Computer Science & Engineering](https://www.cse.cuhk.edu.hk), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html) (CUHK). Before that, I obtained my **honor bachelor** degree (**Advanced Class, GPA: 3.95/4.0**) from the [Department of Electronics and Information Engineering](http://ei.hust.edu.cn/) at [Huazhong University of Science and Technology](http://english.hust.edu.cn/) (HUST). 
+I am a Ph.D. candidate in [ANSR Lab](http://ansrlab.cse.cuhk.edu.hk/), supervised by Chair Professor [John C.S. Lui](https://www.cse.cuhk.edu.hk/~cslui/)  (ACM/IEEE Fellow, Fellow of HKAES) at the [Department of Computer Science & Engineering](https://www.cse.cuhk.edu.hk), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html) (CUHK). During my doctoral studies, I was also invited as a Visiting Scholar to [Carnegie Mellon University](https://www.ece.cmu.edu/) (CMU). Before that, I obtained my **honor bachelor** degree (**Advanced Class, GPA: 3.95/4.0**) from the [Department of Electronics and Information Engineering](http://ei.hust.edu.cn/) at [Huazhong University of Science and Technology](http://english.hust.edu.cn/) (HUST). 
 
 
 # Research
