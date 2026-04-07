@@ -9,8 +9,6 @@ author_profile: true
 
 ------
 # Internships and Research Experiences
-* **2026.01 – 2026.07** &ensp; **Carnegie Mellon University**, Pittsburgh, USA\
-    *Visiting Scholar*, Hosted by Prof. [Carlee Joe-Wong](https://www.andrew.cmu.edu/user/cjoewong/)
 * **2025.05 – 2025.11** &ensp; **Microsoft Research Asia**, Beijing, China\
     *Research Intern*, Mentored by Dr. [Wei Chen](https://www.microsoft.com/en-us/research/people/weic/) (ACM/IEEE Fellow) and Dr. [Siwei Wang](https://www.microsoft.com/en-us/research/people/siweiwang/)
 * **2024.05 – 2024.08** &ensp; **Huawei 2012 Lab**, Hangzhou, China\
