@@ -35,7 +35,7 @@ I always welcome discussions and collaborations. Feel free to reach out via emai
 + [11, 2025] Two papers accepted by AAAI 2026. One paper accepted by ICDE 2026!
 + [06, 2025] Invited as a **Session Chair** for ACM SIGKDD 2025!
 + [05, 2025] Two papers accepted by ACM SIGKDD 2025; also recognized as Outstanding Reviewer (Top 10%) for KDD. One paper accepted by ICML 2025!
-+ [05, 2025] Our work selected as  <font color="red">Best Paper Finalists</font> (Top 5) at [ACM SIGMETRICS 2025](https://www.sigmetrics.org/sigmetrics2025/index.html)!
++ [05, 2025] Our work selected as  **Best Paper Finalists** (Top 5) at [ACM SIGMETRICS 2025](https://www.sigmetrics.org/sigmetrics2025/index.html)!
 + [05, 2025] Started a visiting internship with Dr. [Wei Chen](https://www.microsoft.com/en-us/research/people/weic/) and Dr. [Siwei Wang](https://www.microsoft.com/en-us/research/people/siweiwang/) at Microsoft Research Asia (MSRA), Beijing. 
 
 
