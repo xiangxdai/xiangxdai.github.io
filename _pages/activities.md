@@ -10,7 +10,7 @@ author_profile: true
 ------
 # Internships and Research Experiences
 * **2026.04 – Present** &ensp; **Alibaba Tongyi Lab**, Hangzhou, China\
-    *Research Intern* (**A Star Program**), [Qwen Team](https://qwen.ai/research)
+    *Research Intern* (**A Star Talent Program**), [Qwen Team](https://qwen.ai/research)
   
 * **2025.05 – 2025.11** &ensp; **Microsoft Research Asia**, Beijing, China\
     *Research Intern*, Mentored by Dr. [Wei Chen](https://www.microsoft.com/en-us/research/people/weic/) (ACM/IEEE Fellow) and Dr. [Siwei Wang](https://www.microsoft.com/en-us/research/people/siweiwang/)
