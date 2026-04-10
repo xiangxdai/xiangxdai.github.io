@@ -27,7 +27,7 @@ My work focuses on three primary application thrusts:
 I always welcome discussions and collaborations. Feel free to reach out via email: "xiangxdai0 [at] gmail.com" (recommended) or "xxdai23 [at] cse.cuhk.edu.hk". 
 
 # News
-+ [04, 2026] Joined the [Qwen Team](https://qwen.ai/research) at Alibaba Tongyi Lab (**A Star** Program), focusing on LLM post-training and optimization.
++ [04, 2026] Joined the [Qwen Team](https://qwen.ai/research) at Alibaba Tongyi Lab (**A Star Talent Program**), focusing on LLM post-training and optimization.
 + [02, 2026] One paper accepted by AIJ!
 + [01, 2026] One paper accepted by IEEE/ACM TON. One paper accepted by WWW 2026!
 + [12, 2025] Four papers accepted by INFOCOM 2026!
