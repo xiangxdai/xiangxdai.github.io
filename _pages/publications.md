@@ -12,8 +12,13 @@ author_profile: true
 
 
 # Preprints
+- [[arXiv]](https://arxiv.org/pdf/2603.15647) ***Steering Frozen LLMs: Adaptive Social Alignment via Online Prompt Routing***<br>
+  Zeyu Zhang, **Xiangxiang Dai**, Ziyi Han, Xutong Liu, John C.S. Lui.<br>
+  
 - [[arXiv]](https://arxiv.org/pdf/2510.12266) ***HiLoRA: Adaptive Hierarchical LoRA Routing for Training-Free Domain Generalization***<br>
-Ziyi Han, Huanyu Wang, Zeyu Zhang, **Xiangxiang Dai**, Xutong Liu, John C.S. Lui.<br>
+  Ziyi Han, Huanyu Wang, Zeyu Zhang, **Xiangxiang Dai**, Xutong Liu, John C.S. Lui.<br>
+
+
 
 # Conferences:
 - **[WWW]** ***BANCO: Drift-Aware Batched Bandits for Adaptive Proximity Graph Pruning***<br>
