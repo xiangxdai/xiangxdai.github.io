@@ -102,6 +102,10 @@ Accepted in the IEEE/ACM International Symposium on Quality of Service (**IWQoS*
 
 
 # Journals:
+- **[TMC]** ***Online Outcome-Driven Configuration Selection with Adaptive Grouping for Live Video Streams***<br>
+  **Xiangxiang Dai**#, Zeyu Zhang#, Ziyi Han, Xutong Liu, Peng Yang, John C.S. Lui.<br>
+  Accepted by IEEE Transactions on Mobile Computing (**TMC**), 2026.<br>
+
 - **[AIJ]** ***Exploring Multi-Layered Networks through Random Walks: Bridging Offline Optimization and Online Learning***<br>
   **Xiangxiang Dai**, Xutong Liu, Jinhang Zuo, Xiaowei Chen, Wei Chen, John C.S. Lui.<br>
   Accepted by Elsevier Artificial Intelligence Journal (**AIJ**), 2026.<br>
