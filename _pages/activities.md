@@ -24,6 +24,7 @@ author_profile: true
 ## Session Chair
 + ACM SIGKDD 2025
 
+
 ## Journal Reviewer
 + IEEE Transactions on Mobile Computing (TMC)
 + IEEE Transactions on Knowledge and Data Engineering (TKDE)
@@ -31,6 +32,7 @@ author_profile: true
 + ACM Transactions on Intelligent Systems and Technology (TIST)
 + Knowledge and Information Systems (KAIS)
 + IEEE Internet of Things Journal (IoT-J)
++ Neurocomputing
 
 
 ## Program Committee Member/Conference Reviewer
