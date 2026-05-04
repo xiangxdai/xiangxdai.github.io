@@ -25,7 +25,7 @@ author_profile: true
 - **[INFOCOM]** ***Constraint-Aware Combinatorial Bandits: Theoretical Foundations and Network Applications***<br>
   **Xiangxiang Dai**, Jin Li, Xutong Liu, Anqi Yu, John C.S. Lui.<br>
   Accepted in the IEEE International Conference on Computer Communications (**INFOCOM**), 2026.<br>
-  [[arXiv]](https://arxiv.org/pdf/2405.16587)
+  [[arXiv]](https://arxiv.org/pdf/2405.16587) 
 
 - **[WWW]** ***BANCO: Drift-Aware Batched Bandits for Adaptive Proximity Graph Pruning***<br>
   Jin Cheng, **Xiangxiang Dai**, Ning Ning Ding, John C.S. Lui, Jian Wei Huang.<br>
