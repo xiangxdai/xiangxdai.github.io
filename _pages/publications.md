@@ -34,7 +34,7 @@ author_profile: true
 
 - **[ICML]** ***Pull Requests as a Training Signal for Repo-Level Code Editing***<br>
   Qinglin Zhu, Tianyu Chen, Shuai Lu, Lei Ji, Runcong Zhao, Murong Ma, **Xiangxiang Dai**, Yulan He, Lin Gui, Peng Cheng, Yeyun Gong.<br>
-  arXiv preprint, 2026.<br>
+ Accepted in the International Conference on Machine Learning (**ICML**), 2026.<br>
   [[arXiv]](https://arxiv.org/pdf/2602.07457)
 
 
