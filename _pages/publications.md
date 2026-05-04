@@ -32,7 +32,7 @@ author_profile: true
   Accepted in the ACM The Web Conference (**WWW**), 2026.<br>
   [[Link]](https://dl.acm.org/doi/10.1145/3774904.3792396)
 
-- **[arXiv]** ***Pull Requests as a Training Signal for Repo-Level Code Editing***<br>
+- **[ICML]** ***Pull Requests as a Training Signal for Repo-Level Code Editing***<br>
   Qinglin Zhu, Tianyu Chen, Shuai Lu, Lei Ji, Runcong Zhao, Murong Ma, **Xiangxiang Dai**, Yulan He, Lin Gui, Peng Cheng, Yeyun Gong.<br>
   arXiv preprint, 2026.<br>
   [[arXiv]](https://arxiv.org/pdf/2602.07457)
