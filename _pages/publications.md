@@ -21,14 +21,21 @@ author_profile: true
 
 
 # Conferences:
-- **[WWW]** ***BANCO: Drift-Aware Batched Bandits for Adaptive Proximity Graph Pruning***<br>
-Jin Cheng, **Xiangxiang Dai**, Ning Ning Ding, John C.S. Lui, Jian Wei Huang.<br>
-Accepted in the ACM The Web Conference (**WWW**), 2026. <br>
-
 - **[INFOCOM]** ***Constraint-Aware Combinatorial Bandits: Theoretical Foundations and Network Applications***<br>
- **Xiangxiang Dai**, Jin Li, Xutong Liu, Anqi Yu, John C.S. Lui.<br>
- Accepted in the IEEE International Conference on Computer Communications (**INFOCOM**), 2026.<br>
- [[arXiv]](https://arxiv.org/pdf/2405.16587)
+  **Xiangxiang Dai**, Jin Li, Xutong Liu, Anqi Yu, John C.S. Lui.<br>
+  Accepted in the IEEE International Conference on Computer Communications (**INFOCOM**), 2026.<br>
+  [[arXiv]](https://arxiv.org/pdf/2405.16587)
+
+- **[WWW]** ***BANCO: Drift-Aware Batched Bandits for Adaptive Proximity Graph Pruning***<br>
+  Jin Cheng, **Xiangxiang Dai**, Ning Ning Ding, John C.S. Lui, Jian Wei Huang.<br>
+  Accepted in the ACM The Web Conference (**WWW**), 2026.<br>
+  [[Link]](https://dl.acm.org/doi/10.1145/3774904.3792396)
+
+- **[arXiv]** ***Pull Requests as a Training Signal for Repo-Level Code Editing***<br>
+  Qinglin Zhu, Tianyu Chen, Shuai Lu, Lei Ji, Runcong Zhao, Murong Ma, **Xiangxiang Dai**, Yulan He, Lin Gui, Peng Cheng, Yeyun Gong.<br>
+  arXiv preprint, 2026.<br>
+  [[arXiv]](https://arxiv.org/pdf/2602.07457)
+
 
 - **[INFOCOM]** ***Semantic Caching for Low-Cost LLM Serving: From Offline Learning to Online Adaptation***<br>
  Xutong Liu, Baran Atalar, **Xiangxiang Dai**#, Jinhang Zuo, Siwei Wang, John C.S. Lui, Wei Chen, Carlee Joe-Wong.<br>
