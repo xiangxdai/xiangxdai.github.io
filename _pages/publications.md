@@ -21,6 +21,7 @@ author_profile: true
 
 
 # Conferences:
+## 2026
 - **[INFOCOM]** ***Constraint-Aware Combinatorial Bandits: Theoretical Foundations and Network Applications***<br>
   **Xiangxiang Dai**, Jin Li, Xutong Liu, Anqi Yu, John C.S. Lui.<br>
   Accepted in the IEEE International Conference on Computer Communications (**INFOCOM**), 2026.<br>
@@ -68,6 +69,7 @@ Jin Cheng, **Xiangxiang Dai**, Ning Ning Ding, John C.S. Lui, Jian Wei Huang.<br
 Accepted in the IEEE International Conference on Data Engineering (**ICDE**) 2026.<br>
 [[arXiv]](https://arxiv.org/pdf/2511.07139)
 
+## 2025
 - **[SIGKDD]** ***A Unified Online-Offline Framework for Co-Branding Campaign Recommendations***<br>
 **Xiangxiang Dai**, Xiaowei Sun, Jinhang Zuo, Xutong Liu, John C.S. Lui.<br>
 Accepted in the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**) 2025. <br>
@@ -100,7 +102,7 @@ Zhuohua Li, Maoli Liu, **Xiangxiang Dai**, John C.S. Lui.<br>
 Accepted in the ACM The Web Conference (**WWW**), 2025. <br>
 [[Link]](https://dl.acm.org/doi/10.1145/3696410.3714773), [[Poster]](https://zhuohua.me/assets/WWW2025-Towards-Poster.pdf)
 
-
+## 2024
 - **[ACM MM]** ***AxiomVision: Accuracy-Guaranteed Adaptive Visual Model Selection for Perspective-Aware Video Analytics***<br>
 **Xiangxiang Dai**, Zeyu Zhang, Peng Yang, Yuedong Xu, Xutong Liu, John C.S. Lui.<br>
 Accepted in the ACM Multimedia (**MM**), 2024. <br>
@@ -114,6 +116,7 @@ Accepted in the IEEE/ACM International Symposium on Quality of Service (**IWQoS*
 
 
 # Journals:
+## 2026
 - **[TMC]** ***Online Outcome-Driven Configuration Selection with Adaptive Grouping for Live Video Streams***<br>
   **Xiangxiang Dai**\*, Zeyu Zhang\*, Ziyi Han, Xutong Liu, Peng Yang, John C.S. Lui.<br>
   Accepted by IEEE Transactions on Mobile Computing (**TMC**), 2026.<br>
@@ -133,7 +136,7 @@ Accepted by IEEE/ACM Transactions on Networking (**TON**), 2026.<br>
   Published in the IEEE Transactions on Cognitive Communications and Networking (**TCCN**), 2026.  <br>
  [[Link]](https://ieeexplore.ieee.org/document/11300262)
   
-  
+## 2025  
 - **[TON]** ***Variance-Aware Bandit Framework for Dynamic Probabilistic Maximum Coverage Problem with Triggered or Self-Reliant Arms***<br>
 **Xiangxiang Dai**, Xutong Liu, Jinhang Zuo, Hong Xie, Carlee Joe-Wong, John C.S. Lui.<br>
 Accepted in the IEEE/ACM Transactions on Networking (**TON**), 2025.  <br>
@@ -144,7 +147,7 @@ Jiawei Hou, Peng Yang, **Xiangxiang Dai**, Tian Qin, Feng Lyu.<br>
 Accepted in the IEEE Transactions on Intelligent Transportation Systems (**T-ITS**), 2025.  <br>
  [[Link]](https://ieeexplore.ieee.org/document/10901958)
 
-
+## 2024
 - **[TKDE]** ***Conversational Recommendation with Online Learning and Clustering on Misspecified Users***<br>
 **Xiangxiang Dai**\*, Zhiyong Wang\*, Jize Xie, Xutong Liu, John C.S. Lui.<br>
  Accepted in the IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2024. <br>
@@ -156,6 +159,7 @@ Accepted in the IEEE Transactions on Intelligent Transportation Systems (**T-ITS
 Accepted in the IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2024. <br>
  [[Link]](https://ieeexplore.ieee.org/document/10643701)
 
+## 2022
 - **[TII]** ***RESPIRE: Reducing Spatial–Temporal Redundancy for Efficient Edge-Based Industrial Video Analytics***<br>
 **Xiangxiang Dai**, Peng Yang, Xinyu Zhang, Zhewei Dai, and Li Yu.<br>
 Accepted in the IEEE Transactions on Industrial Informatics (**TII**), 2022. <br>
