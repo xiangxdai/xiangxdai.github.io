@@ -27,6 +27,7 @@ My work focuses on three primary application thrusts:
 I always welcome discussions and collaborations. Feel free to reach out via email: "xiangxdai0 [at] gmail.com" (recommended) or "xxdai23 [at] cse.cuhk.edu.hk". 
 
 # News
++ [08, 2026]: As one of the top ten papers in INFOCOM '26, our paper has been recommended as fast-track for IEEE TON.
 + [06, 2026] One paper accepted by IEEE TMC. One paper accepted by ICML 2026!
 + [04, 2026] Joined the [Qwen Team](https://qwen.ai/research) at Alibaba Tongyi Lab, focusing on LLM post-training and agentic RL.
 + [02, 2026] One paper accepted by AIJ!
