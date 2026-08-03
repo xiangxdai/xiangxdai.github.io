@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Research/Competition Awards
++ 2026, &ensp; **Top 10 papers in INFOCOM 26**
 + 2026, &ensp; **Scholarship** of AAAI
 + 2025, &ensp; **Student Travel Award** of ACM SIGKDD
 + 2025, &ensp; [Outstanding Reviewer](https://kdd2025.kdd.org/research-track-program-committee/) of ACM SIGKDD (Top 10%)
