@@ -132,6 +132,10 @@ Xutong Liu, **Xiangxiang Dai**#, Xuchuang Wang#, Carlee Joe-Wong, Mohammad Hajie
 Accepted by IEEE/ACM Transactions on Networking (**TON**), 2026.<br>
 [[Link]](https://ieeexplore.ieee.org/document/11391544)
 
+- **[TON]** ***Online Minimization of Convex Age of Information with Transmission Costs***<br>
+Ziwei Li, Bo Sun, **Xiangxiang Dai**, Hengjun Tang, Yuxiang Fu, Lin Yang, John C.S. Lui.<br>
+Accepted by IEEE/ACM Transactions on Networking (**TON**), 2026.
+
 - **[TCCN]** ***Networked Edge Resource Orchestration for Mobile AI-Generated Content Services***<br>
   Yuxin Liang, Peng Yang, **Xiangxiang Dai**, Yuanyuan He, Feng Lyu.<br>
   Published in the IEEE Transactions on Cognitive Communications and Networking (**TCCN**), 2026.  <br>
