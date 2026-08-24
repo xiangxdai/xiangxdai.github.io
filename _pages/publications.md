@@ -38,7 +38,14 @@ author_profile: true
  Accepted in the International Conference on Machine Learning (**ICML**), 2026.<br>
   [[arXiv]](https://arxiv.org/pdf/2602.07457)
 
+- **[EMNLP]** ***WEREWOLF: Reputation-Aware Red-Teaming for Self-Organizing LLM Multi-Agent Systems***<br>
+  Manhin Poon, Qirun Zeng, **Xiangxiang Dai**, Jinhang Zuo.<br>
+  Accepted in the Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2026.
 
+- **[EMNLP]** ***Follow the Latent Roadmap: Navigating Revocable Decoding for Diffusion LLMs with Anchor Tokens***<br>
+  Yizhen Yao, Qinglin Zhu, Runcong Zhao, **Xiangxiang Dai**, Yanzheng Xiang, Yulan He, Lin Gui.<br>
+  Accepted in the Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2026.
+  
 - **[INFOCOM]** ***Semantic Caching for Low-Cost LLM Serving: From Offline Learning to Online Adaptation***<br>
  Xutong Liu, Baran Atalar, **Xiangxiang Dai**#, Jinhang Zuo, Siwei Wang, John C.S. Lui, Wei Chen, Carlee Joe-Wong.<br>
  Accepted in the IEEE International Conference on Computer Communications (**INFOCOM**), 2026.<br>
