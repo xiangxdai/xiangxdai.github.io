@@ -11,17 +11,22 @@ author_profile: true
 (*equal contribution, #corresponding author, listed in chronological order)<br>
 
 
-# Preprints
-- [[arXiv]](https://arxiv.org/pdf/2603.15647) ***Steering Frozen LLMs: Adaptive Social Alignment via Online Prompt Routing***<br>
-  Zeyu Zhang, **Xiangxiang Dai**, Ziyi Han, Xutong Liu, John C.S. Lui.<br>
-  
-- [[arXiv]](https://arxiv.org/pdf/2510.12266) ***HiLoRA: Adaptive Hierarchical LoRA Routing for Training-Free Domain Generalization***<br>
-  Ziyi Han, Huanyu Wang, Zeyu Zhang, **Xiangxiang Dai**, Xutong Liu, John C.S. Lui.<br>
-
-
-
 # Conferences:
 ## 2026
+- **[NeurIPS]** ***Steering Frozen LLMs: Adaptive Social Alignment via Online Prompt Routing***<br>
+  Zeyu Zhang, **Xiangxiang Dai**#, Ziyi Han, Xutong Liu, John C.S. Lui.<br>
+  Accepted in the Conference on Neural Information Processing Systems (**NeurIPS**), 2026.<br>
+  [[arXiv]](https://arxiv.org/pdf/2603.15647)
+
+- **[NeurIPS]** ***HiLoRA: Adaptive Hierarchical LoRA Routing for Training-Free Domain Generalization***<br>
+  Ziyi Han, Huanyu Wang, Zeyu Zhang, **Xiangxiang Dai**#, Xutong Liu, John C.S. Lui.<br>
+  Accepted in the Conference on Neural Information Processing Systems (**NeurIPS**), 2026.<br>
+  [[arXiv]](https://arxiv.org/pdf/2510.12266)
+
+- **[NeurIPS]** ***Safe Linear Bandits with Unknown Safety Gaps***<br>
+  Maoli Liu, Zhuohua Li, Zeyu Zhang, **Xiangxiang Dai**, John C.S. Lui.<br>
+  Accepted in the Conference on Neural Information Processing Systems (**NeurIPS**), 2026.<br>
+
 - **[INFOCOM]** ***Constraint-Aware Combinatorial Bandits: Theoretical Foundations and Network Applications***<br>
   **Xiangxiang Dai**, Jin Li, Xutong Liu, Anqi Yu, John C.S. Lui.<br>
   Accepted in the IEEE International Conference on Computer Communications (**INFOCOM**), 2026.<br>
@@ -176,7 +181,6 @@ Accepted in the IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 
 **Xiangxiang Dai**, Peng Yang, Xinyu Zhang, Zhewei Dai, and Li Yu.<br>
 Accepted in the IEEE Transactions on Industrial Informatics (**TII**), 2022. <br>
 [[Link]](https://ieeexplore.ieee.org/document/9745772)<br>
-
 
 
 
