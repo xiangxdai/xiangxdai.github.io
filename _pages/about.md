@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<p style="color: #d32f2f; font-weight: bold;">I am on the job market! I am seeking research opportunities in LLM post-training, agentic intelligence, and reinforcement learning. Please feel free to <a href="mailto:xiangxdai0@gmail.com" style="color: inherit; text-decoration: underline;">contact me</a> to discuss potential opportunities.</p>
+
 I am a Ph.D. candidate in [ANSR Lab](http://ansrlab.cse.cuhk.edu.hk/), supervised by Chair Professor [John C.S. Lui](https://www.cse.cuhk.edu.hk/~cslui/) (ACM/IEEE Fellow, Fellow of HKAES) at [The Chinese University of Hong Kong](https://www.cse.cuhk.edu.hk) (CUHK). During my doctoral studies, I was also invited as a Visiting Scholar to [Carnegie Mellon University](https://www.ece.cmu.edu/) (CMU). Before that, I obtained my **Honor Bachelor's degree** in Electronics and Information Engineering (Advanced Class, GPA: 3.95/4.0) from [Huazhong University of Science and Technology](http://ei.hust.edu.cn/) (HUST).
 
 
@@ -27,6 +29,7 @@ My work focuses on three primary application thrusts:
 I always welcome discussions and collaborations. Feel free to reach out via email: "xiangxdai0 [at] gmail.com" (recommended) or "xxdai23 [at] cse.cuhk.edu.hk". 
 
 # News
++ \[09, 2026\]: Three papers accepted by NeurIPS 2026, see you in Sydney!
 + \[08, 2026\]: Built and released [Qwen3.8-Max](https://qwen.ai/blog?id=qwen3.8) towards Agentic Working capabilities by Scaling Real-World RL Systems.
 + \[08, 2026\]: Selected as **Top 10 papers in INFOCOM '26**, our paper has been recommended for fast-track for IEEE TON!
 + \[06, 2026\]: Built and released [Qwen3.6-Plus](https://qwen.ai/blog?id=qwen3.6) and [Qwen3.7-Max](https://qwen.ai/blog?id=qwen3.7) towards Agentic Working capabilities.
@@ -41,5 +44,3 @@ I always welcome discussions and collaborations. Feel free to reach out via emai
 + [05, 2025] Two papers accepted by ACM SIGKDD 2025; also recognized as Outstanding Reviewer (Top 10%) for KDD. One paper accepted by ICML 2025!
 + [05, 2025] Our work selected as  **Best Paper Finalists** (Top 5) at [ACM SIGMETRICS 2025](https://www.sigmetrics.org/sigmetrics2025/index.html)!
 + [05, 2025] Started a visiting internship with Dr. [Wei Chen](https://www.microsoft.com/en-us/research/people/weic/) and Dr. [Siwei Wang](https://www.microsoft.com/en-us/research/people/siweiwang/) at Microsoft Research Asia (MSRA), Beijing. 
-
-
