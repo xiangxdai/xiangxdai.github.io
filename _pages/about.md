@@ -29,7 +29,7 @@ My work focuses on three primary application thrusts:
 I always welcome discussions and collaborations. Feel free to reach out via email: "xiangxdai0 [at] gmail.com" (recommended) or "xxdai23 [at] cse.cuhk.edu.hk". 
 
 # News
-+ \[09, 2026\]: Three papers accepted by NeurIPS 2026, see you in Sydney!
++ \[10, 2026\]: Selected as a **[DAAD AInet Fellow](https://www.daad.de/en/the-daad/postdocnet/details-and-application/)** by the German Academic Exchange Service (DAAD)!
 + \[08, 2026\]: Built and released [Qwen3.8-Max](https://qwen.ai/blog?id=qwen3.8) towards Agentic Working capabilities by Scaling Real-World RL Systems.
 + \[08, 2026\]: Selected as **Top 10 papers in INFOCOM '26**, our paper has been recommended for fast-track for IEEE TON!
 + \[06, 2026\]: Built and released [Qwen3.6-Plus](https://qwen.ai/blog?id=qwen3.6) and [Qwen3.7-Max](https://qwen.ai/blog?id=qwen3.7) towards Agentic Working capabilities.
