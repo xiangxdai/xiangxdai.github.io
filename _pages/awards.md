@@ -19,7 +19,9 @@ author_profile: true
 ## Fellowship and Scholarship
 
 <!--+ 2024-2027, &ensp; Huawei PhD Fellowship -->
++ 2026, &ensp; **[DAAD AInet Fellow](https://www.daad.de/en/the-daad/postdocnet/details-and-application/)**, German Academic Exchange Service (DAAD)
 + 2025, &ensp; **NSFC Basic Research Scheme for Ph.D. Student**
++ 2025, &ensp; **Talent Development Scholarship**, HKSAR Government
 + 2023,  &ensp; CUHK [Provost's Strategic Allocation of Centrally-funded RPg Places](https://www.obg.cuhk.edu.hk/wp-content/uploads/2023/01/Strategic-Research-Areas-and-High-Impact-Interdisciplinary-Research.pdf) \
   (*30 recipients globally, providing HK$0.89M funding over 4 years*)
 + 2023, &ensp; **Honour Bachelor**  \
