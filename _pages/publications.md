@@ -130,6 +130,10 @@ Accepted in the IEEE/ACM International Symposium on Quality of Service (**IWQoS*
 
 # Journals:
 ## 2026
+- **[JSAC]** ***Communication-Efficient Distributed Learning for Perspective-Aware Visual Inference over Edge-Cloud Networks***<br>
+  Zeyu Zhang, **Xiangxiang Dai**#, Peng Yang, Yuedong Xu, Xutong Liu, John C.S. Lui.<br>
+  Accepted by IEEE Journal on Selected Areas in Communications (**JSAC**), 2026.<br>
+  
 - **[TMC]** ***Online Outcome-Driven Configuration Selection with Adaptive Grouping for Live Video Streams***<br>
   **Xiangxiang Dai**\*, Zeyu Zhang\*, Ziyi Han, Xutong Liu, Peng Yang, John C.S. Lui.<br>
   Accepted by IEEE Transactions on Mobile Computing (**TMC**), 2026.<br>
